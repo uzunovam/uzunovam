@@ -28,12 +28,14 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
+    font-variant: oldstyle-nums;
 }
 section {
     font-family: Georgia, serif;
     font-size: 1.5em;
     list-style: none;
     font-variant: small-caps;
+    font-variant: oldstyle-nums;
 }
 footer {
     border-top: 1px solid #d5d5d5;
