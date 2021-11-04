@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family: Verdana, serif;
+    font-family: Georgia, serif;
     padding: 0px;
     list-style: none;
     font-variant: small-caps;
@@ -27,6 +27,13 @@ p {
     font-size: 1.8em;
     line-height: 1.6em;
     color: #333;
+}
+section {
+    font-family: Georgia, serif;
+    font-size: 1.5em;
+    padding: 0px;
+    list-style: none;
+    font-variant: small-caps;
 }
 footer {
     border-top: 1px solid #d5d5d5;
