@@ -36,6 +36,7 @@ section {
     list-style: none;
     font-variant: small-caps;
     font-variant: oldstyle-nums;
+    padding-bottom: 0px;
 }
 footer {
     border-top: 1px solid #d5d5d5;
