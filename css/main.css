@@ -4,6 +4,7 @@ body {
 }
 nav ul, footer ul {
     font-family: Georgia, serif;
+    font-size: 1.3em;
     padding: 0px;
     list-style: none;
     font-variant: small-caps;
