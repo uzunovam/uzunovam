@@ -33,9 +33,8 @@ p {
 section {
     font-family: Georgia, serif;
     font-size: 1.3em;
-    list-style: none;
-    font-variant: small-caps;
     padding-bottom: 0px;
+    font-variant: small-caps;
 }
 footer {
     border-top: 1px solid #d5d5d5;
