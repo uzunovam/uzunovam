@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Anders Herlitz on unstable choices"
+title: "anders herlitz on unstable choices"
 date: 2020-04-28
 ---
 
