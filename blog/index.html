@@ -2,9 +2,8 @@
 layout: default
 title: Blog
 ---
-	<p>{{ page.title }}</p>
+	<p>This blog mostly contains notes to various readings.</p>
 	<ul class="posts">
-
 	  {% for post in site.posts %}
 	    <li><span>{{ post.date | date_to_string }}</span> <bullet>»</bullet> <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
