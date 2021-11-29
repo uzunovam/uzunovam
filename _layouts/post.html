@@ -13,15 +13,20 @@
 	  		  		<li><a href="/blog"><bullet>&Omega;</bullet></a></li>
     				</ul>
 			</nav>
-			<div class="container">
+
+<div class="container">
 			
-			<section>{{ page.title }}</section>
-      <p class="meta">{{ page.date | date_to_string }}</p>
+<section>{{ page.title }}</section>
+<p class="meta">{{ page.date | date_to_string }}</p>
 
       <div class="post">
           {{ content }}
       </div>
+	<div class="notecomments">
+	{% include disqus.html %}	 
+	</div>
 			
-			</div><!-- /.container -->
+</div><!-- /.container -->
+
 		</body>
 	</html>
