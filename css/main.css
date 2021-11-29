@@ -30,6 +30,9 @@ p {
     color: #333;
     font-variant: oldstyle-nums;
 }
+numerals {
+    font-variant: oldstyle-nums;
+}
 section {
     font-family: Georgia, serif;
     font-size: 1.3em;
