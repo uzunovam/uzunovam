@@ -9,7 +9,7 @@ date: 2020-04-28
 
 <p>In this interesting new paper, Anders Herlitz offers just such an explanation. The explanation is in terms of a violation of a new invariance condition that Herlitz calls the ‘stability condition’. The condition is interesting, partly because it faces some prima facie obvious objections. How successful these are, however, is not clear because Herlitz’ exposition is not very precise. So first an attempt at bringing some more precision to Herlitz’ discussion, followed by the obvious objections. These I think can be accommodated and I suggest a way of doing that towards the end.</p>
 
-<p><cite>Reconstructing Herlitz’ argument</cite></p>
+<p style="text-align:center;">Reconstructing Herlitz’ argument</p>
 
 <p>First some preliminaries. Suppose that \(X\) is the universal set of alternatives and let \(\mathcal{P}\) be the set of all (for simplicity, non-empty) subsets of \(X\); that is, the set of all possible agendas. (I set aside the question of whether all agendas are feasible as it is not central to Herlitz’ discussion.) A choice function \(C: \mathcal{P} \rightarrow X\) such that \(C(A) \subseteq A\) for all \(A \in \mathcal{P}\) tells us which element (or elements) of an agenda \(A\) has been chosen. Herlitz restricts his discussion to single-valued choice functions so let us add the restriction: \(|C(A)|=1\) for all \(A \in \mathcal{P}\).</p>
 
