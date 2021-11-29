@@ -5,5 +5,5 @@ date: 2020-04-28
 ---
 
 <p>Test
-$$ K(a,b) = \int \mathcal{D} $$
+$ K(a,b) = \int \mathcal{D} $
 </p>
