@@ -1,9 +1,26 @@
----
-layout: default
----
-<h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>{{ page.title }}</title>
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+		</head>
+		<body>
+			<nav>
+	    			<ul>
+	  		  		<li><a href="/">&Omega;</a></li>
+              <li><a href="/blog">blog</a></li>
+    				</ul>
+			</nav>
+			<div class="container">
+			
+			<h2>{{ page.title }}</h2>
+      <p class="meta">{{ page.date | date_to_string }}</p>
 
-<div class="post">
-  {{ content }}
-</div>
+      <div class="post">
+          {{ content }}
+      </div>
+			
+			</div><!-- /.container -->
+		</body>
+	</html>
