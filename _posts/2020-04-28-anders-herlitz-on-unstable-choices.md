@@ -17,5 +17,5 @@ date: 2020-04-28
 
 <p>It is possible to reconstruct this definition in a more clear and precise form. The idea underlying transmutation is that once a choice has been made alternatives are transformed in some way. Suppose that the agenda \(A\) includes two alternatives, \(A = \{x, y\}\), and that the agent chooses \(x\). This then transform the agenda into \(A_{x} = \{x_{x}, y_{x}\}\). These new alternatives are still the old alternatives but with frills: they now include information about any negative or positive values accruing to them in the process of choosing. We can thus think of transmutation as another mapping—from the set of available options in an agenda to a bundle of two alternatives: \(T_{C(A)}: \mathcal{P} \rightarrow X \times X\) with the restriction that</p>
 
-<p style="centered;">\(T_{C(A)}(A) = \{(z, w) | z \in A \text{ and } \{w\} = C(A)\} \text{ for all } A \in \mathcal{P}\)</p>
+<p style="text-align:center;">\(T_{C(A)}(A) = \{(z, w) | z \in A \text{ and } \{w\} = C(A)\} \text{ for all } A \in \mathcal{P}\)</p>
 
