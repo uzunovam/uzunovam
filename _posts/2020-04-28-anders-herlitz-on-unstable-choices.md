@@ -3,7 +3,7 @@ layout: post
 title: "Anders Herlitz on unstable choices"
 date: 2020-04-28
 ---
-<p> A note on: Anders Herlitz (2020). <a href="https://doi.org/10.1017/S0266267119000026" target="_blank" rel="noopener">Stable and unstable choices</a>. <cite>Economics & Philosophy</cite> 36 (1): 113–125.</p>
+<p>Anders Herlitz (2020). <a href="https://doi.org/10.1017/S0266267119000026" target="_blank" rel="noopener">Stable and unstable choices</a>. <cite>Economics & Philosophy</cite> 36 (1): 113–125.</p>
 
 <p style="padding-left:100px;">“Consider a variation of a joke retold by Larry Temkin: imagine a man, John, who enters an ice-cream parlour and proclaims: ‘I’ll have the strawberry, unless I’ve already chosen that – in which case I’ll go for chocolate! But if I’ve chosen chocolate, then I’ll have the strawberry!’ (<a href="https://doi.org/10.1093/acprof:oso/9780199759446.001.0001" target="_blank" rel="noopener">Temkin</a> 2012: 388). John appears to be irrational. He clearly wants strawberry ice-cream, but as soon as he has chosen it he does not want it any longer. Yet when he has changed his mind, he is again unsatisfied with his choice and wants to go back to strawberry. This paper presents a general condition that reflects the intuition that John is irrational and that explains why his behaviour is irrational.” (113)</p>
 
