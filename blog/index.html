@@ -5,6 +5,6 @@ title: Blog
 	<p>Here, I collect reflections on various readings, the goal being one paper per month—though, as a casual glance may attest, some months tend to indecently stretch into two and others yet more rudely into a year.</p>
 	<ul class="posts">
 	  {% for post in site.posts %}
-	    <li><span><numerals>{{ post.date | date_to_string }}</numerals></span> <bullet>»</bullet> <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	    <li><span><numerals>{{ post.date }}</numerals></span> <bullet>»</bullet> <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
