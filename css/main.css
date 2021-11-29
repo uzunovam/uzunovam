@@ -31,6 +31,7 @@ p {
     font-variant: oldstyle-nums;
 }
 numerals {
+    font-family: Georgia, serif;
     font-variant: oldstyle-nums;
 }
 section {
