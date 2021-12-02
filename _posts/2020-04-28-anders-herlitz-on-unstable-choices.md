@@ -66,7 +66,7 @@ that the act of choosing a maximal alternative alone can revert whether this cho
 
 <p>Herlitz claims that theories or methods that violate stability are suspicious and should be avoided. Why? Because</p>
 
-<p style="padding-left:100px;">“it is irrational to accept decision methods and normative theories that allow for the act of choosing a maximal alternative to render this alternative non-maximal”. (113)</p>
+<p style="padding-left:100px;">“it is irrational to accept decision methods and normative theories that allow for the act of choosing a maximal alternative to render this alternative non-maximal”. (114)</p>
 
 <p>There are a number of good reasons why stability may be a desirable property for a normative (particularly, action-guiding) theory or method—see pp. 119ff for this discussion.</p>
 
@@ -171,7 +171,3 @@ that the act of choosing a maximal alternative alone can revert whether this cho
 <p>Stability***** says that if an alternative is overall ‘best’ in the transmuted agenda once it has been chosen, then it must have been ‘best’ according to at least one standard in the original agenda. This is a weak invariance condition that is not at odds with Case 1 or Case 2. And it is hard to see how a theory that violates this condition is not implausible.</p>
 
 <p>It is worth stressing this final point to avoid confusions about Herlitz’ overall claim. On a charitable reading, it is not a claim about the sufficiency of a stability condition with respect to a theory’s plausibility: if a theory satisfies stability, it need not be plausible; there might be other properties that it needs to satisfy. Rather, as I read it, it is a necessary condition: if a theory violates a convincing version of the stability condition (such as stability*****), then it is implausible regardless of what other conditions it satisfies or violates.</p>
-
-
-
-
