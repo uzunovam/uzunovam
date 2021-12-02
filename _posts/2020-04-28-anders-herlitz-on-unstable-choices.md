@@ -50,4 +50,19 @@ that the act of choosing a maximal alternative alone can revert whether this cho
 
 <p style="padding-left:100px;">Agenda \(T_{x}(A)\): \((x, x) \succ (y, x) \succ (z, x)\)</p>
 
+<p>Now, we have \(S(A) = \{x, y\}\) and \(C(A) = \{x\}\), and importantly \(T_{x}(x) = (x, x) \in S(T_{x}(A)) = \{(x, x)\}\). Hence, stability is satisfied.</p>
+
+<p>If we had additionally:</p>
+
+<p style="padding-left:100px;">Agenda \(T_{y}(A)\): \((x, x) \succ (y, x) \succ (z, x)\)</p>
+
+<p>Then stability would be violated. Why? Because even though \(y\) is maximal in the original agenda (\(y \in S(A)\)), it is no longer maximal in the transmuted agenda <cite>given that \(y\) has been chosen</cite> (\(y \notin S(T_{y}(A)) = \{(x, x)\}\)).</p>
+
+
+
+
+
+
+
+
 
