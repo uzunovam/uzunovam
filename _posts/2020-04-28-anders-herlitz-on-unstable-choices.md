@@ -14,7 +14,7 @@ that the act of choosing a maximal alternative alone can revert whether this cho
 
 <p>And, more precisely, John’s behaviour is irrational because it follows a decision method that violates a novel, in Herlitz’ words,‘stability condition’. It is an interesting proposal; understanding it, however, requires some heavy preliminary reconstruction work. </p>
 
-<p style="padding-left:100px;">Reconstructing Herlitz’ argument</p>
+<p style="padding-left:100px;"><u>Reconstructing Herlitz’ argument</u></p>
 
 <p>Herlitz’ starting point is that the features of an alternative that are relevant to how that alternative is evaluated by a theory or a method should be (explicitly, one may add) <cite>individuated</cite>. For example, if according to a utlitarian theory, the relevant ground for choice is ‘(maximum) utility’, then the utilities resulting from going for each alternative should be explicitly individuated. For some theories, however, ‘grounds for choice’ is not a static concept. As Herlitz puts it:</p>
 
@@ -24,7 +24,9 @@ that the act of choosing a maximal alternative alone can revert whether this cho
 
 <p style="padding-left:100px;">“A transmutation\(_{X}\) of an alternative, \(Y\), in a set of alternatives, \(C\), of which both \(X\) and \(Y\) are elements, into a transmuted\(_{X}\) alternative, \(Y_{X}\), is the transmutation of \(Y\) that appears in the choice set, \(C_{X}\), that is the set of alternatives \(C\) in which the negative and positive values associated with choosing \(X\) have been dispersed across the alternatives in \(C\).” (117)</p>
 
-<p>And here is my attempt at formulating it a bit more precisely. First some preliminaries. Suppose that \(X\) is the universal set of alternatives and let \(\mathcal{P}\) be the set of all (for simplicity, non-empty) subsets of \(X\); that is, the set of all possible agendas. (I set aside the question of whether all agendas are feasible as it is not central to Herlitz’ discussion.) A choice function \(C: \mathcal{P} \rightarrow X\) such that \(C(A) \subseteq A\) for all \(A \in \mathcal{P}\) tells us which element (or elements) of an agenda \(A\) has been chosen. Herlitz restricts his discussion to single-valued choice functions so let us add the restriction: \(|C(A)|=1\) for all \(A \in \mathcal{P}\).</p>
+<p>And here is my attempt at formulating it a bit more precisely. For some preliminaries, suppose that \(X\) is the universal set of alternatives and let \(\mathcal{P}\) be the set of all (for simplicity, non-empty) subsets of \(X\); that is, the set of all possible agendas. (I set aside the question of whether all agendas are feasible as it is not central to Herlitz’ discussion.) A choice function \(C: \mathcal{P} \rightarrow X\) such that \(C(A) \subseteq A\) for all \(A \in \mathcal{P}\) tells us which element (or elements) of an agenda \(A\) has been chosen. Herlitz restricts his discussion to single-valued choice functions so let us add the restriction: \(|C(A)|=1\) for all \(A \in \mathcal{P}\).</p>
+
+
 
 
 
