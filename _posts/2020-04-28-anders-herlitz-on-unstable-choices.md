@@ -86,7 +86,7 @@ that the act of choosing a maximal alternative alone can revert whether this cho
 
 <p>Suppose that there are two individuals and that the welfare threshold (for leading a good or a flourishing life on your preferred account) is four. Now consider these distributions where \(q\) is the status quo:</p>
 
-<p style="padding-left:100px;"><smallcaps>case 1</smallcaps>:</p>
+<p style="padding-left:100px;"><cite>Case 1</cite>:</p>
 
 <p style="padding-left:100px;">\(q = (3.5; 3)\)</p>
 
@@ -96,7 +96,15 @@ that the act of choosing a maximal alternative alone can revert whether this cho
 
 <p>Given that under the status quo, both agents are below the threshold, the theory says that we should maximise the welfare of the worst off, that is, of agent two. Thus, according to the theory’s first standard: \(S_{1}(\{q,r,s\}) = \{s\}\). But suppose that \(s\) is now the status quo:</p>
 
+<p style="padding-left:100px;"><cite>Case 1 continued:</cite>:</p>
 
+<p style="padding-left:100px;">\((q, s) = (1,000,000; 4.2)\)</p>
+
+<p style="padding-left:100px;">\((r, s) = (100; 4.1)$</p>
+
+<p style="padding-left:100px;">\((s, s) = (1,000,000; 4.2)$</p>
+
+<p>Both agents are above the minimal threshold and now the theory’s second standard kicks in: \(S_{2}(\{(q, s), (r,s), (s, s)\}) = \{(r, s)\}\).</p>
 
 
 
