@@ -16,7 +16,9 @@ that the act of choosing a maximal alternative alone can revert whether this cho
 
 <p style="padding-left:100px;">Reconstructing Herlitz’ argument</p>
 
-<p>Herlitz’ starting point is that the features of an alternative that are relevant to how it is evaluated by a theory or method should be (explicitly, one may add) <cite>individuated</cite>. For example, if according to a utlitarian theory, the relevant ground for choice is ‘(maximum) utility’, then the utilities resulting from going for each alternative should be explicitly individuated.</p>
+<p>Herlitz’ starting point is that the features of an alternative that are relevant to how that alternative is evaluated by a theory or method should be (explicitly, one may add) <cite>individuated</cite>. For example, if according to a utlitarian theory, the relevant ground for choice is ‘(maximum) utility’, then the utilities resulting from going for each alternative should be explicitly individuated. For some theories, however, ‘grounds for choice’ is not a static concept. As Herlitz puts it:</p>
+
+<p style="padding-left:100px;">“Some decision methods and normative theories imply that making a choice changes the pertinent grounds for making a choice.” (117)</p>
 
 <p>First some preliminaries. Suppose that \(X\) is the universal set of alternatives and let \(\mathcal{P}\) be the set of all (for simplicity, non-empty) subsets of \(X\); that is, the set of all possible agendas. (I set aside the question of whether all agendas are feasible as it is not central to Herlitz’ discussion.) A choice function \(C: \mathcal{P} \rightarrow X\) such that \(C(A) \subseteq A\) for all \(A \in \mathcal{P}\) tells us which element (or elements) of an agenda \(A\) has been chosen. Herlitz restricts his discussion to single-valued choice functions so let us add the restriction: \(|C(A)|=1\) for all \(A \in \mathcal{P}\).</p>
 
