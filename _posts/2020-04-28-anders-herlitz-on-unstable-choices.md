@@ -58,6 +58,11 @@ that the act of choosing a maximal alternative alone can revert whether this cho
 
 <p>Then stability would be violated. Why? Because even though \(y\) is maximal in the original agenda (\(y \in S(A)\)), it is no longer maximal in the transmuted agenda <cite>given that \(y\) has been chosen</cite> (\(y \notin S(T_{y}(A)) = \{(x, x)\}\)).</p>
 
+<p>For another example, let’s revisit <cite>John’s ice-cream</cite>. How does the idea of stability help us explain the intuition that John’s behaviour is irrational? </p>
+
+
+<p style="padding-left:100px;"><u>Violating stability: Transformative choices</u></p>
+
 
 
 
