@@ -30,3 +30,4 @@ that the act of choosing a maximal alternative alone can revert whether this cho
 
 <p style="padding-left:100px;">\(T_{C(A)}(A) = \{(z, w) \ | \ z \in A \text{ and } \{w\} = C(A)\} \text{ for all } A \in \mathcal{P}\).</p>
 
+<p>Suppose as before that the agent chooses \(x\), that is, \(C(A) = \{x\}\). Then, the transmutation function \(T_{x}(\cdot)\) changes the alternatives \(x\) and \(y\) into \((x, x)\) and \((y, x)\). That is to say, a transmutation is always relative to a choice function.</p>
