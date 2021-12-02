@@ -34,3 +34,13 @@ that the act of choosing a maximal alternative alone can revert whether this cho
 
 <p>Herlitz’ main argument needs some more machinery. The argument is about normative theories or decision methods and while it doesn’t specify what precisely these are, his discussion suggests a way of defining them. Theories and methods set standards or principles that a choice needs to satisfy. For example, a utilitarian theory would involve a standard of maximisation. Herlitz himself speaks of maximality (being no worse than any other alternative) but nothing prevents us from being more general. Let a standard be a (choice) function \(S: \mathcal{P} \rightarrow X\) that picks out certain alternatives from the agenda with the restriction that \(S(A) \subseteq A\) for all \(A \in \mathcal{P}\). A normative theory or a decision method can then be defined as a set of \(k\) standards \(\{S_{1}, \dots, S_{k}\}\). Herlitz restricts his attention to single-standard (maximality) theories so for now let’s follow suit.</p>
 
+<p>Now for Herlitz’ main argument. It is devoted to defending a type of invariance condition called <cite>stability</cite>. Here is Herlitz’ way of phrasing it:</p>
+
+<p style="padding-left:100px;">“A decision method/normative theory, \(P\), meets the stability condition if and only if it is always true according to the method/theory that if an option, \(X\), that according to the method/theory is maximal (i.e. not worse than any alternative) in a set of alternatives, \(C\), is chosen, then the transmutation\(_{X}\) of \(X\), \(X_{X}\), is also maximal according [to] \(P\) in \(C_{X}\), the set of alternatives consisting of the transmuted\(_{X}\) alternatives in \(C\).” (118)</p>
+
+<p>And here again is my attempt at translation.Stability, note, is a property of a theory or method and since we have identified those with their unique standards, we can define stability as follows:</p>
+
+
+
+
+
