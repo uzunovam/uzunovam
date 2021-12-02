@@ -86,7 +86,7 @@ that the act of choosing a maximal alternative alone can revert whether this cho
 
 <p>Suppose that there are two individuals and that the welfare threshold (for leading a good or a flourishing life on your preferred account) is four. Now consider these distributions where \(q\) is the status quo:</p>
 
-<p style="padding-left:100px;"><section>case 1</section>:</p>
+<p style="padding-left:100px;"><smallcaps>case 1</smallcaps>:</p>
 
 <p style="padding-left:100px;">\(q = (3.5; 3)\)</p>
 

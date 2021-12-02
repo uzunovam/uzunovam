@@ -61,3 +61,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+smallcaps {
+    font-family: Georgia, serif;
+    font-size: 1.3em;
+    font-variant: small-caps;
+}
