@@ -44,7 +44,10 @@ that the act of choosing a maximal alternative alone can revert whether this cho
 
 <p style="padding-left:100px;">if \(x \in S(A)\) and \(C(A) = \{x\}\), then \(T_{x}(x) \in S(T_{x}(A))\).</p>
 
+<p>Suppose that the standard is maximality. Then it satisfies stability if alternative \(x\) is maximal in the original agenda and when \(x\) is chosen, the transmuted alternative \((x, x)\) is maximal in the transmuted agenda. Here is an example. Suppose that a maximal alternative is a no-worse alternative according to an underlying preference relation and that we have the following preferences over three alternatives:</p>
 
+<p style="padding-left:100px;">Agenda \(A\): \(x \sim y \succ z\)</p>
 
+<p style="padding-left:100px;">Agenda \(T_{x}(A)\): \((x, x) \succ (y, x) \succ (z, x)\)</p>
 
 
