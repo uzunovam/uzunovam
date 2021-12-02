@@ -146,7 +146,7 @@ that the act of choosing a maximal alternative alone can revert whether this cho
 
 <p>There might be a way of salvaging stability. Note that a <cite>coherent</cite> hybrid theory needs to have a way of aggregating its various standards. That is to say, it needs to have an overall all-things-considered evaluation of what is ‘best’ that either depends on some weighing of the standards or on the evaluation of the relevant standard in the respective case. So let us redefine a normative theory to be a bundle consisting of a set of various standards and an overall standard function that gives us the theory’s all-things-considered evaluation: \((\{S_{1}, \dots, S_{k}\}, S_{o})\).</p>
 
-<p>Let’s start with an obvious way of redefining stability that we’ll only consider so as to set aside:</p>
+<p>Let’s start with an obvious way of redefining stability that we’ll only consider so as to discard:</p>
 
 <p style="padding-left:100px;"><strong>Stability***</strong>. A theory \((\{S_{1}, \dots, S_{k}\}, S_{o})\) is stable if and only if:</p>
 
@@ -159,6 +159,17 @@ that the act of choosing a maximal alternative alone can revert whether this cho
 <p style="padding-left:100px;"><strong>Stability****</strong>. A theory \((\{S_{1}, \dots, S_{k}\}, S_{o})\) is stable if and only if:</p>
 
 <p style="padding-left:100px;">for some \(i \in \{1, \dots, k\}\), if \(x \in S_{o}(A)\) and \(C(A) = \{x\}\), then \(T_{x}(x) \in S_{i}(T_{x}(A))\).</p>
+
+<p>Stability**** says that if an alternative is overall ‘best’, then once it has been chosen it must be ‘best’ according to at least one standard in the transmuted agenda. This seems more plausible but is still at odds with Case 2.</p>
+
+<p>Finally, consider:</p>
+
+<p style="padding-left:100px;"><strong>Stability*****</strong>. A theory \((\{S_{1}, \dots, S_{k}\}, S_{o})\) is stable if and only if:</p>
+
+<p style="padding-left:100px;">for some \(i \in \{1, \dots, k\}\), if \(T_{x}(x) \in S_{o}(T_{x}(A))\), then \(x \in S_{i}(A)\).</p>
+
+
+
 
 
 
