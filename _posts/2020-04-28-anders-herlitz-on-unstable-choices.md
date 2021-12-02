@@ -94,6 +94,8 @@ that the act of choosing a maximal alternative alone can revert whether this cho
 
 <p style="padding-left:100px;">\(s = (1,000,000; 4.2)\)</p>
 
+<p>Given that under the status quo, both agents are below the threshold, the theory says that we should maximise the welfare of the worst off, that is, of agent two. Thus, according to the theory’s first standard: \(S_{1}(\{q,r,s\}) = \{s\}\). But suppose that \(s\) is now the status quo:</p>
+
 
 
 
