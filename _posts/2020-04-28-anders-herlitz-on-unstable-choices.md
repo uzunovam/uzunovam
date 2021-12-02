@@ -38,7 +38,11 @@ that the act of choosing a maximal alternative alone can revert whether this cho
 
 <p style="padding-left:100px;">“A decision method/normative theory, \(P\), meets the stability condition if and only if it is always true according to the method/theory that if an option, \(X\), that according to the method/theory is maximal (i.e. not worse than any alternative) in a set of alternatives, \(C\), is chosen, then the transmutation\(_{X}\) of \(X\), \(X_{X}\), is also maximal according [to] \(P\) in \(C_{X}\), the set of alternatives consisting of the transmuted\(_{X}\) alternatives in \(C\).” (118)</p>
 
-<p>And here again is my attempt at translation.Stability, note, is a property of a theory or method and since we have identified those with their unique standards, we can define stability as follows:</p>
+<p>And here again is my attempt at translation. Stability, note, is a property of a theory or method and since we have identified those with their unique standards, we can define stability as follows:</p>
+
+<p style="padding-left:100px;"><strong>Stability</strong>. A standard \(S\) is stable if and only if:</p>
+
+<p style="padding-left:100px;">if \(x \in S(A)\) and \(C(A) = \{x\}\), then \(T_{x}(x) \in S(T_{x}(A))\).</p>
 
 
 
