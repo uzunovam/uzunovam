@@ -114,8 +114,15 @@ that the act of choosing a maximal alternative alone can revert whether this cho
 
 <p>That is to say, if an alternative is ‘best’ according to one of the theory’s standards, then it should also be ‘best’ according to the same standard in the transmuted agenda that results from choosing the alternative. This has problems which are in line with Herlitz’ discussion of prioritarian theories, consider:</p>
 
+<p style="padding-left:100px;"><cite>Case 2:</cite>:</p>
 
+<p style="padding-left:100px;">\(q = (3; 3.5)\)</p>
 
+<p style="padding-left:100px;">\(r = (100; 4.2)\)</p>
+
+<p style="padding-left:100px;">\(s = (1,000,000; 4.1)\)</p>
+
+<p>According to the standard of maximising the worst off, \(s\) is optimal, that is, \(S_{1}(\{q, r, s\})=\{s\}\). But once \(s\) is chosen, it is no longer optimal according to the same standard, that is, \((s,s) \notin S_{1}(\{(q, s), (r, s), (s, s)\}) = \{(r,r)\}\):</p>
 
 
 
