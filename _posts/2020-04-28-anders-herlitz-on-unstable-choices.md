@@ -142,4 +142,17 @@ that the act of choosing a maximal alternative alone can revert whether this cho
 
 <p>And yet, there doesn’t seem to be anything suspicious with these stability violations: a prioritarian-egalitarian theory that maximises the welfare of the worst off until everyone has enough and from then on focuses on inequality is perfectly coherent in these cases. If anything, they seem to make the stability conditions look suspicious as standards for evaluating hybrid theories.</p>
 
+<p style="padding-left:100px;"><u>Salvaging stability in the case of hybrid theories</u></p>
+
+<p>There might be a way of salvaging stability. Note that a <cite>coherent</cite> hybrid theory needs to have a way of aggregating its various standards. That is to say, it needs to have an overall all-things-considered evaluation of what is ‘best’ that either depends on some weighing of the standards or on the evaluation of the relevant standard in the respective case. So let us redefine a normative theory to be a bundle consisting of a set of various standards and an overall standard function that gives us the theory’s all-things-considered evaluation: \((\{S_{1}, \dots, S_{k}\}, S_{o})\).</p>
+
+<p>Let’s start with an obvious way of redefining stability that we’ll only consider so as to set aside:</p>
+
+<p style="padding-left:100px;"><strong>Stability***</strong>. A theory \((\{S_{1}, \dots, S_{k}\}, S_{o})\) is stable if and only if:</p>
+
+<p style="padding-left:100px;">if \(x \in S_{o}(A)\) and \(C(A) = \{x\}\), then \(T_{x}(x) \in S_{o}(T_{x}(A))\).</p>
+
+
+
+
 
