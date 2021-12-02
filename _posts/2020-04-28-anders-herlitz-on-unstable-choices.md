@@ -110,7 +110,7 @@ that the act of choosing a maximal alternative alone can revert whether this cho
 
 <p style="padding-left:100px;"><strong>Stability*</strong>. A theory \(\{S_{1}, \dots, S_{k}\}\) is stable if and only if:</p>
 
-<p style="padding-left:100px;">if \(x \in S_{i}(A)\) and \(C(A) = \{x\}\), then \(T_{x}(x) \in S_{i}(T_{x}(A))\) for some \(i \in \{1, \dots, k\}\).</p>
+<p style="padding-left:100px;">for some \(i \in \{1, \dots, k\}\), if \(x \in S_{i}(A)\) and \(C(A) = \{x\}\), then \(T_{x}(x) \in S_{i}(T_{x}(A))\).</p>
 
 <p>That is to say, if an alternative is ‘best’ according to one of the theory’s standards, then it should also be ‘best’ according to the same standard in the transmuted agenda that results from choosing the alternative. This has problems which are in line with Herlitz’ discussion of prioritarian theories, consider:</p>
 
@@ -136,7 +136,7 @@ that the act of choosing a maximal alternative alone can revert whether this cho
 
 <p style="padding-left:100px;"><strong>Stability**</strong>. A theory \(\{S_{1}, \dots, S_{k}\}\) is stable if and only if:</p>
 
-<p style="padding-left:100px;">if \(x \in S_{i}(A)\) and \(C(A) = \{x\}\), then \(T_{x}(x) \in S_{j}(T_{x}(A))\) for some \(i,j \in \{1, \dots, k\}\).</p>
+<p style="padding-left:100px;">for some \(i,j \in \{1, \dots, k\}\), if \(x \in S_{i}(A)\) and \(C(A) = \{x\}\), then \(T_{x}(x) \in S_{j}(T_{x}(A))\).</p>
 
 <p>That is to say, if an alternative is ‘best’ according to <cite>one</cite> of the theory’s standards, then it should also be ‘best’ according to <cite>some</cite> of the theory’s standards in the transmuted agenda that results from choosing the alternative. This is more plausible. But there are still problems. For example, stability** is violated in Case 2: even though \(s\) is optimal according to the first standard, once it has been chosen it is no longer optimal <cite>neither</cite> according to the first standard <cite>nor</cite> according to the second. That is, once \(s\) is chosen, \((s,s)\) neither maximises the welfare of the worst off agent two, nor minimises inequality.</p>
 
