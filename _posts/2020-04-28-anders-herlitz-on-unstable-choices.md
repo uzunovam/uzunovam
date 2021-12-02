@@ -78,6 +78,21 @@ that the act of choosing a maximal alternative alone can revert whether this cho
 
 <p>A brute-force way of accommodating the objection is to restrict the permissible agendas to those consisting of alternatives that the agent has had experience with. A more refined way of dealing with the objection is to distinguish between <cite>choosing</cite> and <cite>doing</cite>. Most normative theories would count experience with the alternatives as relevant information in the process of evaluating them. This implies that the function, which denotes the relevant standard, should not be defined over the respective (initial or transmuted) agenda but over <cite>having experience</cite> with that agenda. One can easily define an experience function over the respective agenda and then require that the standard and choice functions are applied not to the agenda but to the experience agenda. Alternatively, if there is other relevant information, one could define not an experience but a broader information function over the agendas.</p>
 
+<p>The objection from transformative choices is a strong objection against Herlitz’ stability condition but it is not fatal. Ultimately, it can be accommodated. There is, however, a further worry that might give us pause when evaluating theories on the basis of the stability condition.</p>
+
+<p style="padding-left:100px;"><u>Violating stability: Hybrid normative theories</u></p>
+
+<p>Herlitz’ discussion is restricted to single-standard theories and this would be fine were it to easily carry over to hybrid theories with multiple standards. But this doesn’t seem to be the case. Take a hybrid prioritarian-egalitarian theory which says: 1) as long as there are people below a certain threshold, maximise the welfare of the worst off; 2) as as soon as everyone is above the threshold, minimise inequality.</p>
+
+<p>Suppose that there are two individuals and that the welfare threshold (for leading a good or a flourishing life on your preferred account) is four. Now consider these distributions where \(q\) is the status quo:</p>
+
+<p style="padding-left:100px;"><section>case 1</section>:</p>
+
+<p style="padding-left:100px;">\(q = (3.5; 3)\)</p>
+
+<p style="padding-left:100px;">\(r = (100; 4.1)\)</p>
+
+<p style="padding-left:100px;">\(s = (1,000,000; 4.2)\)</p>
 
 
 
