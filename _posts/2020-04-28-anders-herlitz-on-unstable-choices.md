@@ -152,7 +152,13 @@ that the act of choosing a maximal alternative alone can revert whether this cho
 
 <p style="padding-left:100px;">if \(x \in S_{o}(A)\) and \(C(A) = \{x\}\), then \(T_{x}(x) \in S_{o}(T_{x}(A))\).</p>
 
+<p>That is to say, if an alternative is overall ‘best’, then once it has been chosen it must be overall ‘best’ in the transmuted agenda as well. This is analogous to Herlitz’ original formulation and it is too strong: both Case 1 and Case 2 speak against it.</p>
 
+<p>Alternatively, one might say:</p>
+
+<p style="padding-left:100px;"><strong>Stability****</strong>. A theory \((\{S_{1}, \dots, S_{k}\}, S_{o})\) is stable if and only if:</p>
+
+<p style="padding-left:100px;">for some \(i \in \{1, \dots, k\}\), if \(x \in S_{o}(A)\) and \(C(A) = \{x\}\), then \(T_{x}(x) \in S_{i}(T_{x}(A))\).</p>
 
 
 
