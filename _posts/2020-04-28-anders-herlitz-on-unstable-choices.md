@@ -106,7 +106,7 @@ that the act of choosing a maximal alternative alone can revert whether this cho
 
 <p>Both agents are above the minimal threshold and now the theory’s second standard kicks in: \(S_{2}(\{(q, s), (r,s), (s, s)\}) = \{(r, s)\}\).</p>
 
-<p>Whatever the theory’s other shortcomings, few people would perhaps contest that minimising such blatant inequality once everyone has enough is desirable. But what of the theory’s relation to the stability condition? It is not clear what the relation is, and the reason is that the condition is undefined when it comes to such hybrid theories. A straightforward extension to hybrid theories might go as follows:</p>
+<p>Whatever the theory’s other shortcomings, few people would perhaps contest that minimising such blatant inequality once everyone has enough is at least plausibly desirable. But what of the theory’s relation to the stability condition? It is not clear what the relation is, and the reason is that the condition is undefined when it comes to such hybrid theories. A straightforward extension to hybrid theories might go as follows:</p>
 
 
 
