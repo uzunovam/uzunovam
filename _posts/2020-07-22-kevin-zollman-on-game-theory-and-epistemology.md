@@ -61,7 +61,7 @@ date: 2020-07-22
 
 <p>Of course, situations with a unique Nash equilibrium need not be Prisoners’ Dilemma games. One would need further restrictions to ensure the existence of a different credence vector that Pareto dominates the equilibrium. (Put differently, Proposition 1 does not generalise as easily as Proposition 2. Perhaps this is why Zollman admits that the specific functional form of the joint accuracy function he works with is “not an innocuous assumption”, 1388.) What I am more interested in here, however, is the possibility of generating Chicken games. A Chicken game is a multiple-equilibria game where the equilibria involve agents taking <cite>different</cite> actions. Now, in the framework above, this is still a bit vague so we need to be a bit more careful about what the relevant actions are.</p>
 
-<p style="padding-left:100px;"><u> Generating multiple equilibria</u></p>
+<p style="padding-left:100px;"><u>Generating multiple equilibria</u></p>
 
 <p>Let’s start by distinguishing between two types of ‘actions’: one possible action is to stick to your given credence; another possible action (type) is to change your credence (with token actions here referring to all the credences one could pick). In a game with joint accuracy functions that are strictly monotonic in one’s credence, the unique Nash equilibrium is the vector of each agent sticking to their credence. (It is at places like these that the ‘epistemic versus pragmatic’ distinction Zollman opens the paper with starts to thread on shaky ground. I’ll bracket this issue as I don’t think it’s that crucial to the insights in the paper.) So if we want to generate multiple equilibria, we need to relax the assumption of strict monotonicity. Take weak monotonicity:</p>
 
@@ -95,7 +95,17 @@ date: 2020-07-22
 
 <p>This condition restricts strict monotonicity in one’s own credence to a unique vector: namely, the vector of prior credences. And it implies that this vector of prior credences is a strict Nash equilibrium. However, it does not rule out games where changing one’s credence is a strict best response to a <cite>different</cite> vector of credences. (Although notice that while this weaker condition allows for multiple strict equilibria, it is not sufficient to guarantee they exist.) So requiring that the joint accuracy functions satisfy this very weak vector-specific form of monotonicity would allow us to generate the Stag Hunt and Coordination games described in the second part of the paper. </p>
 
+<p style="padding-left:100px;"><u>Generating a Chicken game</u></p>
 
+<p>Now, Chicken games are games of multiple strict equilibria. Does the condition allow for them? Unfortunately, no. To see why, take the two-agent case described above and consider the conditions describing the two equilibria in a Chicken game:</p>
+
+<p style="padding-left:100px;">(3) \qquad JA_{i}((x_{i}, \mathbf{c}_{-i}), c_{i}) &gt; JA_{i}(\mathbf{c}, c_{i})\)</p>
+
+<p style="padding-left:100px;">(4) \qquad JA_{i}((c_{i}, \mathbf{x}_{-i}), c_{i}) &gt; JA_{i}(\mathbf{x}, c_{i})\)</p>
+
+<p>In other words, to generate a two-player Chicken game, changing one’s own credence should be a strict best response to the other player sticking to their credence, and sticking to one’s own credence should be a strict best response to the other player changing their credence. Clearly, these two conditions are inconsistent with conditions \((1)\) and \((2)\) above. Put differently, joint accuracy functions that allow for Stag Hunt and Coordination games cannot allow for Chicken games. </p>
+
+<p>Notice further that the weak monotonicity condition that allows for Stag Hunt and Coordination games, also allows for Prisoners’ Dilemma games. These three types of games can be generated using the same broad class of joint accuracy functions, given strictly proper underlying scoring rules. (With additional conditions delineating these games more narrowly.) But, given strictly proper underlying scoring rules, to generate a Chicken game, one needs to use non-monotonic joint accuracy functions. To see why, notice that condition \((3)\) requires one’s joint accuracy function to be <cite>decreasing</cite> in one’s expected credence when the other player sticks to their own credence: given \(\mathbf{c}\), a higher credence (\(E(c_{i}, c_{i})\)) should yield a lower joint accuracy than a lower credence (\(E(x_{i}, c_{i})\)) does. Further, condition \((4)\) requires one’s joint accuracy function to be <cite>increasing</cite> in one’s expected credence when the other player changes their own credence: given \(\mathbf{x}\), a higher credence (\(E(c_{i}, c_{i})\)) should yield a higher joint accuracy than a lower credence (\(E(x_{i}, c_{i})\)) does. This points to an interesting asymmetry between the joint accuracy functions that generate Stag Hunt and Coordination games, on the one hand, and Chicken games, on the other.</p>
 
 
 
