@@ -65,6 +65,14 @@ date: 2020-07-22
 
 <p>Let’s start by distinguishing between two types of ‘actions’: one possible action is to stick to your given credence; another possible action (type) is to change your credence (with token actions here referring to all the credences one could pick). In a game with joint accuracy functions that are strictly monotonic in one’s credence, the unique Nash equilibrium is the vector of each agent sticking to their credence. (It is at places like these that the ‘epistemic versus pragmatic’ distinction Zollman opens the paper with starts to thread on shaky ground. I’ll bracket this issue as I don’t think it’s that crucial to the insights in the paper.) So if we want to generate multiple equilibria, we need to relax the assumption of strict monotonicity. Take weak monotonicity:</p>
 
+<p style="padding-left:100px;"><strong>Weak monotonicity in own credence</strong>. Let \(JA_{i}(\mathbf{x}, c_{i})\) be \(i\)’s joint accuracy function. \(JA_{i}\) is weakly monotonic in \(i\)’s own credence if:</p>
+
+<p style="padding-left:100px;">\(JA_{i}((y_{i}, \mathbf{x}_{-i}), c_{i}) \geq JA_{i}(\mathbf{x}, c_{i})\)</p>
+
+<p style="padding-left:100px;">Whenever:</p>
+
+<p style="padding-left:100px;">\(E_{i}(y_{i}, c_{i}) &gt; E_{i}(x_{i}, c_{i})\)</p>
+
 
 
 
