@@ -57,6 +57,13 @@ date: 2020-07-22
 
 <p>The proof is immediate and follows from the fact that each \(c_{i}\) <cite>uniquely</cite> maximises \(E_{i}(\cdot, c_{i})\) and that \(JA_{i}\) is <cite>strictly</cite> monotonic in \(i\)’s own credence.</p>
 
+<p>(Notice that strict monotonicity in own credence is quite weak: it only requires strict monotonicity with respect to the agent’s <cite>own</cite> credence rather than with respect to <cite>any</cite> possible credence, potentially those of other agents.)</p>
+
+<p>Of course, situations with a unique Nash equilibrium need not be Prisoners’ Dilemma games. One would need further restrictions to ensure the existence of a different credence vector that Pareto dominates the equilibrium. (Put differently, Proposition 1 does not generalise as easily as Proposition 2. Perhaps this is why Zollman admits that the specific functional form of the joint accuracy function he works with is “not an innocuous assumption”, 1388.) What I am more interested in here, however, is the possibility of generating Chicken games. A Chicken game is a multiple-equilibria game where the equilibria involve agents taking <cite>different</cite> actions. Now, in the framework above, this is still a bit vague so we need to be a bit more careful about what the relevant actions are.</p>
+
+
+
+
 
 
 
