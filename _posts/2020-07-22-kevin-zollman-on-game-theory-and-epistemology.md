@@ -91,7 +91,11 @@ date: 2020-07-22
 
 <p style="padding-left:100px;">Whenever:</p>
 
-<p style="padding-left:100px;">\(E_{i}(y_{i}, c_{i}) &gt; E_{i}(x_{i}, c_{i})$ and $latex \mathbf{x} = \mathbf{c}\)</p>
+<p style="padding-left:100px;">\(E_{i}(y_{i}, c_{i}) &gt; E_{i}(x_{i}, c_{i})\) and \(\mathbf{x} = \mathbf{c}\)</p>
+
+<p>This condition restricts strict monotonicity in one’s own credence to a unique vector: namely, the vector of prior credences. And it implies that this vector of prior credences is a strict Nash equilibrium. However, it does not rule out games where changing one’s credence is a strict best response to a <cite>different</cite> vector of credences. (Although notice that while this weaker condition allows for multiple strict equilibria, it is not sufficient to guarantee they exist.) So requiring that the joint accuracy functions satisfy this very weak vector-specific form of monotonicity would allow us to generate the Stag Hunt and Coordination games described in the second part of the paper. </p>
+
+
 
 
 
