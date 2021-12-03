@@ -27,6 +27,21 @@ date: 2020-07-22
 
 <p>Now, all of the above describes evaluations by a single agent. So let’s introduce strategic considerations by introducing more agents. Let \(N = \{1, \dots, n\}\) be the set of agents. (The notation above will now be indexed by the respective agent \(i\).) Further, let vector \(\mathbf{x} = (x_{1}, \dots, x_{n})\) collect credences for each agent. Now, define the joint accuracy function of agent \(i\) to be a function of the expected accuracy that \(i\) assigns to each credence in \(\mathbf{x}\); that is, \(JA_{i}(\mathbf{x}, c_{i}) = JA_{i}(E_{i}(x_{1}, c_{i}), \dots, E_{i}(x_{n}, c_{i}))\). </p>
 
+With this machinery at hand, it is easy to derive a generalisation of Zollman’s Proposition 2. According to this proposition, ‘sticking to one’s own prior credence’ weakly dominates the strategy of adopting a compromise credence, given a linear joint accuracy function. In fact, it is easy to show that ‘sticking to one’s prior credence’ is a weakly dominant strategy for a large class of joint accuracy functions. (And hence weakly dominates not just adopting a compromise credence, but also adopting any other credence.)</p>
+
+<p>As long as each agent is using a joint accuracy function that is monotonic in the agents’ expectation functions, then we have:</p>
+
+<p style="padding-left:100px;">Suppose that, for all \(i \in N\), \(S_{i}\) is a strictly proper scoring rule. Then as long as \(JA_{i}\) is monotonic in \(E_{i}\) for all \(i \in N\), we have:</p>
+
+<p style="padding-left:100px;">\(JA_{i}((c_{i}, \mathbf{x}_{-i}), c_{i}) \geq JA_{i}(\mathbf{x}, c_{i})\)</p>
+
+<p style="padding-left:100px;">Where \((c_{i}, \mathbf{x}_{-i})\) is the vector of credences where \(i\)’s credence is \(c_{i}\) and everyone else’s is as in \(\mathbf{x}\).</p>
+
+<p style="padding-left:100px;">(The inequality follows immediately from monotonicity, the fact that \(E(c_{i}, c_{i})\) and \(E(x_{i}, c_{i})\) are the only differing arguments, and the fact that, due to strict propriety, \(E(c_{i}, c_{i}) \geq E(x_{i}, c_{i})\), with a strict sign when \(x_{i} \neq c_{i}\).)</p>
+
+
+
+
 
 
 
