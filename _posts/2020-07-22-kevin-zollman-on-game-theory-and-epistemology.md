@@ -43,7 +43,13 @@ date: 2020-07-22
 
 <p>The question now is: is \(\mathbf{c}\) a <cite>unique</cite> Nash equilibrium? The answer hinges on the kind of mononicity the joint accuracy functions satisfy. Let’s start from the strictest possible case. First, assume as before that \(S_{i}\) are strictly proper for all \(i\), so that there is a unique credence \(c\) that maximises \(E_{i}(c, c_{i})\): namely, \(c = c_{i}\). Then, consider the following property:</p>
 
+<p style="padding-left:100px;"><strong>Strict monotonicity in own credence</strong>. Let \(JA_{i}(\mathbf{x}, c_{i})\) be \(i\)’s joint accuracy function. \(JA_{i}\) is strictly monotonic in \(i\)’s own credence if:</p>
 
+<p style="padding-left:100px;">\(JA_{i}((y_{i}, \mathbf{x}_{-i}), c_{i}) &gt; JA_{i}(\mathbf{x}, c_{i})\)</p>
+
+<p style="padding-left:100px;">Whenever:</p>
+
+<p style="padding-left:100px;">\(E_{i}(y_{i}, c_{i}) &gt; E_{i}(x_{i}, c_{i})\)</p>
 
 
 
