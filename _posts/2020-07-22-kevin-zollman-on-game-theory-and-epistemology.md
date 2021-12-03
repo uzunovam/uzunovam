@@ -111,6 +111,14 @@ date: 2020-07-22
 
 <p>Here is a more intuitive way of thinking about this asymmetry. Consider again the running two-player example. A joint accuracy function that generates a Stag Hunt or a Coordination game must be such that it makes the agents’ actions <cite>strategic complements</cite>: if agent two changes their credence, that should make changing one’s credence (strictly) <cite>more</cite> appealing for agent one as well. In contrast, Chicken games are situations where the actions of the two agents are <cite>strategic substitutes</cite>: if agent two changes their credence, that should make changing one’s credence (strictly) <cite>less</cite> appealing for agent one. Clearly, joint accuracy functions that make the agents’ actions strategic complements cannot also make them strategic substitutes. (Except in the uninteresting degenerate case.) And thus functions that generate Stag Hunt and Coordination games cannot generate Chicken games.</p>
 
+<p>Intuitively, this is a substantial difference. Joint accuracy functions that lead to strategically complementary actions describe agents who have some kind of prior epistemic trust; while those that lead to strategically substitute actions pertain to agents who are inherently epistemically distrustful of each other.  Let’s look at examples of each of these functions. </p>
+
+<p>Here is an example of a general joint accuracy function that can generate a Prisoner’s Dilemma, a Stag Hunt, or a Coordination game, depending on the specific functional form of the expected accuracy function:</p>
+
+<p style="padding-left:100px;">\((5) \qquad JA^{C}_{1}((x_{1}, x_{2}), c_{1}) = E_{1}(x_{1}, c_{1}) \cdot H^{*}(E_{1}(x_{2}, c_{1}) - E_{1}(c_{2}, c_{1}))\)</p>
+
+<p style="padding-left:100px;">Where \(H^{*}(z)\) is a version of the Heaviside function that yields a value of \(1\) whenever \(z \geq 0\) and a value of \(-1\) otherwise.</p>
+
 
 
 
