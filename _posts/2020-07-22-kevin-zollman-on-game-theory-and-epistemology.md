@@ -119,11 +119,12 @@ date: 2020-07-22
 
 <p style="padding-left:100px;">Where \(H^{*}(z)\) is a version of the Heaviside function that yields a value of \(1\) whenever \(z \geq 0\) and a value of \(-1\) otherwise.</p>
 
+<p>And here is an example of a joint accuracy function that can generate a Chicken game (again depending on the underlying expected accuracy function), but not the other three canonical games above:</p>
 
+<p style="padding-left:100px;">\((5) \qquad JA^{S}_{1}((x_{1}, x_{2}), c_{1}) = E_{1}(x_{1}, c_{1}) \cdot G^{*}(E_{1}(x_{2}, c_{1}) - E_{1}(c_{2}, c_{1}))\)</p>
 
+<p style="padding-left:100px;">Where \(G^{*}(z)\) is a version of the Heaviside function that yields a value of \(-1\) whenever \(z \geq 0\) and a value of \(1\) otherwise.</p>
 
+<p>Notice that the only difference between \(JA_{i}^{C}\) and \(JA_{i}^{S}\) is the step function assigning a positive or negative value to the difference in the brackets. The difference in the brackets is the difference between the expected accuracy of the <cite>other</cite> agent changing their credence to the credence under consideration (\(x_{2}\)) relative to the status quo (\(c_{2}\)). In other words, the difference in the brackets is the ‘surplus’ expected accuracy from the other agent changing their credence to \(x_{2}\) (which, notice, could be \(c_{2}\), in which case the difference is zero). \(JA_{i}^{C}\) assigns a nonnegative ‘surplus’ a <cite>positive</cite> value, while \(JA_{i}^{S}\) assigns a nonegative ‘surplus’ a <cite>negative</cite> value. Intuitively, this means that when the other agent improves their expected accuracy relative to the status quo, a \(JA_{i}^{C}\)-type of player would evaluate this positively, while a \(JA_{i}^{S}\)-type of player would evaluate this negatively. This differential treatment can be interpreted in various ways but it does point to a fundamental difference in the types of agents that can find themselves in a Stag Hunt or a Coordination game, on the one hand, or a Chicken game, on the other.</p>
 
-
-
-
-
+<p>The idea of epistemic strategic complementarity and substitutability is also philosophically interesting (and as far as I know novel), particularly with respect to its relation to issues of disagreement, and epistemic cooperation. Complementarity leads to mutual epistemic reinforcement while substitutability leads to mutual epistemic divergence, and it is the latter case that might be most costly, not just in terms of the difficulty of overcoming disagreement but also in terms of its conduciveness to polarization.</p>
