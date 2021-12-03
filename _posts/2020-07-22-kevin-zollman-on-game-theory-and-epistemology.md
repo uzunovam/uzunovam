@@ -55,7 +55,7 @@ date: 2020-07-22
 
 <p style="padding-left:100px;"><strong>Unique Nash equilibrium</strong>. Take a set of agents \(N\) and a credence distribution \(\mathbf{c}\). For all \(i \in N\), let \(S_{i}\) be a strictly proper scoring rule and let \(JA_{i}\) be a joint accuracy function that is strictly monotonic in \(i\)’s own credence. Then \(\mathbf{c}\) is the unique Nash equilibrium.</p>
 
-
+<p>The proof is immediate and follows from the fact that each \(c_{i}\) <cite>uniquely</cite> maximises \(E_{i}(\cdot, c_{i})\) and that \(JA_{i}\) is <cite>strictly</cite> monotonic in \(i\)’s own credence.</p>
 
 
 
