@@ -51,6 +51,11 @@ date: 2020-07-22
 
 <p style="padding-left:100px;">\(E_{i}(y_{i}, c_{i}) &gt; E_{i}(x_{i}, c_{i})\)</p>
 
+<p>If all joint accuracy functions are strictly monotonic in the agents’ own credence, then this is sufficient to yield a uniqueness result:</p>
+
+<p style="padding-left:100px;"><strong>Unique Nash equilibrium</strong>. Take a set of agents \(N\) and a credence distribution \(\mathbf{c}\). For all \(i \in N\), let \(S_{i}\) be a strictly proper scoring rule and let \(JA_{i}\) be a joint accuracy function that is strictly monotonic in \(i\)’s own credence. Then \(\mathbf{c}\) is the unique Nash equilibrium.</p>
+
+
 
 
 
