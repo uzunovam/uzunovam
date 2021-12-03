@@ -77,6 +77,9 @@ date: 2020-07-22
 
 <p>Let’s take the two-agent case. Suppose that the vector of prior credences is \(\mathbf{c}\) and that agents could change to an alternative vector \(\mathbf{x}\). Then, for \(i = 1, 2\), to allow for a Stag Hunt or a Coordination game, we need to allow for (of course, there’re further restrictions that delineate these games and make them unique; in any case, they’re both games with two strict equilibria):</p>
 
+<p style="padding-left:100px;">\((1) \qquad JA_{i}(\mathbf{c}, c_{i}) &gt; JA_{i}((x_{i}, \mathbf{c}_{-i}), c_{i})\)</p>
+
+<p style="padding-left:100px;">\((2) \qquad JA_{i}(\mathbf{x}, c_{i}) &gt; JA_{i}((c_{i}, \mathbf{x}_{-i}), c_{i})\)</p>
 
 
 
