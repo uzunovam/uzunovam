@@ -84,7 +84,7 @@ that the act of choosing a maximal alternative alone can revert whether this cho
 
 <p>Herlitz’ discussion is restricted to single-standard theories and this would be fine were it to easily carry over to hybrid theories with multiple standards. But this doesn’t seem to be the case. Take a hybrid prioritarian-egalitarian theory which says: 1) as long as there are people below a certain threshold, maximise the welfare of the worst off; 2) as as soon as everyone is above the threshold, minimise inequality.</p>
 
-<p>Suppose that there are two individuals and that the welfare threshold (for leading a good or a flourishing life on your preferred account) is four. Now consider these distributions where \(q\) is the status quo:</p>
+<p>Suppose that there are two individuals and that the welfare threshold (for leading a good or a flourishing life on your preferred account) is four. Now consider these distributions where \(q\) is the status quo and \(1m\) stands for ‘one million’:</p>
 
 <p style="padding-left:100px;"><cite>Case 1</cite>:</p>
 
