@@ -99,9 +99,9 @@ date: 2020-07-22
 
 <p>Now, Chicken games are games of multiple strict equilibria. Does the condition allow for them? Unfortunately, no. To see why, take the two-agent case described above and consider the conditions describing the two equilibria in a Chicken game:</p>
 
-<p style="padding-left:100px;">(3) \qquad JA_{i}((x_{i}, \mathbf{c}_{-i}), c_{i}) &gt; JA_{i}(\mathbf{c}, c_{i})\)</p>
+<p style="padding-left:100px;">\((3) \qquad JA_{i}((x_{i}, \mathbf{c}_{-i}), c_{i}) &gt; JA_{i}(\mathbf{c}, c_{i})\)</p>
 
-<p style="padding-left:100px;">(4) \qquad JA_{i}((c_{i}, \mathbf{x}_{-i}), c_{i}) &gt; JA_{i}(\mathbf{x}, c_{i})\)</p>
+<p style="padding-left:100px;">\((4) \qquad JA_{i}((c_{i}, \mathbf{x}_{-i}), c_{i}) &gt; JA_{i}(\mathbf{x}, c_{i})\)</p>
 
 <p>In other words, to generate a two-player Chicken game, changing one’s own credence should be a strict best response to the other player sticking to their credence, and sticking to one’s own credence should be a strict best response to the other player changing their credence. Clearly, these two conditions are inconsistent with conditions \((1)\) and \((2)\) above. Put differently, joint accuracy functions that allow for Stag Hunt and Coordination games cannot allow for Chicken games. </p>
 
