@@ -18,6 +18,9 @@ date: 2020-07-22
 
 <p>A key concept in this framework is the idea of a ‘proper scoring rule’. It is defined as follows:</p>
 
+<p style="padding-left:100px;"><strong>Proper scoring rule</strong>. Let \(S(c, y)\) with \(c \in [0, 1]\) and \(y \in \{0, 1\}\) be a scoring rule. And let \(E(c^{\prime}, c)\) with \(c, c^{\prime} \in [0,1]\) be an expectation function that yields the expected accuracy of credence \(c^{\prime}\), i.e. \(E(c^{\prime}, c) = E(c, S(c^{\prime}, 1), S(c^{\prime}, 0))\). Then \(S\) is a proper scoring rule if for all credences \(c\):</p>
+<p style="padding-left:100px;">\(c = \text{argmax}_{c^{\prime} \in [0,1]} E(c^{\prime}, c)\)</p>
+
 
 
 
