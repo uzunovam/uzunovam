@@ -81,8 +81,17 @@ date: 2020-07-22
 
 <p style="padding-left:100px;">\((2) \qquad JA_{i}(\mathbf{x}, c_{i}) &gt; JA_{i}((c_{i}, \mathbf{x}_{-i}), c_{i})\)</p>
 
+<p>In other words, to generate a Stag Hunt or a Coordination game, sticking to one’s own credence should be a strict best response to the other player sticking to their credence, and changing one’s own credence should be a strict best response to the other player changing their credence.</p>
 
+<p>The second inequality clearly violates weak (and strict) monotonicity. But if we weaken that condition even further, then we can allow for such strict equilibria. Consider:</p>
 
+<p style="padding-left:100px;"><strong>Strict monotonicity in own credence with respect to \(\mathbf{c}\)</strong>. Let \(\mathbf{c}\) be the vector of given credences. Let \(JA_{i}(\mathbf{x}, c_{i})\) be \(i\)’s joint accuracy function. \(JA_{i}\) is strictly monotonic in \(i\)’s own credence with respect to \(\mathbf{c}\) if:</p>
+
+<p style="padding-left:100px;">\(JA_{i}((y_{i}, \mathbf{x}_{-i}), c_{i}) &gt; JA_{i}(\mathbf{x}, c_{i})\)</p>
+
+<p style="padding-left:100px;">Whenever:</p>
+
+<p style="padding-left:100px;">\(E_{i}(y_{i}, c_{i}) &gt; E_{i}(x_{i}, c_{i})$ and $latex \mathbf{x} = \mathbf{c}\)</p>
 
 
 
