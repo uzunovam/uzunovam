@@ -27,7 +27,7 @@ date: 2020-07-22
 
 <p>Now, all of the above describes evaluations by a single agent. So let’s introduce strategic considerations by introducing more agents. Let \(N = \{1, \dots, n\}\) be the set of agents. (The notation above will now be indexed by the respective agent \(i\).) Further, let vector \(\mathbf{x} = (x_{1}, \dots, x_{n})\) collect credences for each agent. Now, define the joint accuracy function of agent \(i\) to be a function of the expected accuracy that \(i\) assigns to each credence in \(\mathbf{x}\); that is, \(JA_{i}(\mathbf{x}, c_{i}) = JA_{i}(E_{i}(x_{1}, c_{i}), \dots, E_{i}(x_{n}, c_{i}))\). </p>
 
-With this machinery at hand, it is easy to derive a generalisation of Zollman’s Proposition 2. According to this proposition, ‘sticking to one’s own prior credence’ weakly dominates the strategy of adopting a compromise credence, given a linear joint accuracy function. In fact, it is easy to show that ‘sticking to one’s prior credence’ is a weakly dominant strategy for a large class of joint accuracy functions. (And hence weakly dominates not just adopting a compromise credence, but also adopting any other credence.)</p>
+<p>With this machinery at hand, it is easy to derive a generalisation of Zollman’s Proposition 2. According to this proposition, ‘sticking to one’s own prior credence’ weakly dominates the strategy of adopting a compromise credence, given a linear joint accuracy function. In fact, it is easy to show that ‘sticking to one’s prior credence’ is a weakly dominant strategy for a large class of joint accuracy functions. (And hence weakly dominates not just adopting a compromise credence, but also adopting any other credence.)</p>
 
 <p>As long as each agent is using a joint accuracy function that is monotonic in the agents’ expectation functions, then we have:</p>
 
@@ -39,6 +39,9 @@ With this machinery at hand, it is easy to derive a generalisation of Zollman’
 
 <p style="padding-left:100px;">(The inequality follows immediately from monotonicity, the fact that \(E(c_{i}, c_{i})\) and \(E(x_{i}, c_{i})\) are the only differing arguments, and the fact that, due to strict propriety, \(E(c_{i}, c_{i}) \geq E(x_{i}, c_{i})\), with a strict sign when \(x_{i} \neq c_{i}\).)</p>
 
+<p>This more general result establishes that for a large class of monotonic joint accuracy functions, each agent has, <cite>for any possible credence the agent may hold</cite>, a weakly dominant strategy: namely, sticking to this prior credence. And this, in turn, implies that for any vector collecting the prior distribution of credences, this vector is a Nash equilibrium. That is to say, if \(\mathbf{c}\) is the vector of credences of the agents in \(N\), then \(\mathbf{c}\) is a Nash equilibrium.</p>
+
+<p>The question now is: is \(\mathbf{c}\) a <cite>unique</cite> Nash equilibrium? The answer hinges on the kind of mononicity the joint accuracy functions satisfy. Let’s start from the strictest possible case. First, assume as before that \(S_{i}\) are strictly proper for all \(i\), so that there is a unique credence \(c\) that maximises \(E_{i}(c, c_{i})\): namely, \(c = c_{i}\). Then, consider the following property:</p>
 
 
 
