@@ -73,8 +73,9 @@ date: 2020-07-22
 
 <p style="padding-left:100px;">\(E_{i}(y_{i}, c_{i}) &gt; E_{i}(x_{i}, c_{i})\)</p>
 
+<p>Under the assumption of weak monotonicity, uniqueness no longer necessarily holds. The trouble is that while weak monotonicity allows for games with multiple equilibria, some of which are weak equilibria, it does not allow for games with multiple <cite>strict</cite> equilibria. And it is these games that Zollman generates later in the paper. Recall that a Coordination game and a Stag Hunt game (like a Chicken game) is a game with multiple strict equilibria: under different credence vectors, agents have different strict best responses. Weak monotonicity implies that under any credence vector, an agent always has the same (possibly weak or strict) best response: namely, sticking to their prior credence.</p>
 
-
+<p>Let’s take the two-agent case. Suppose that the vector of prior credences is \(\mathbf{c}\) and that agents could change to an alternative vector \(\mathbf{x}\). Then, for \(i = 1, 2\), to allow for a Stag Hunt or a Coordination game, we need to allow for (of course, there’re further restrictions that delineate these games and make them unique; in any case, they’re both games with two strict equilibria):</p>
 
 
 
