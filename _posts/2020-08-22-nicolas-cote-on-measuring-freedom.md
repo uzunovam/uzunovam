@@ -16,3 +16,11 @@ date: 2020-08-22
 <p>Côté presents this solution as a generalisation of the classical approach (406ff) which only admits of perfectly accessible or perfectly inaccessible options. By allowing for intermediate values of accessibility, we can explain how it is that Willy’s ‘total accessibility’ to the same set of (otherwise, not perfectly inaccessible) options is less than that of Regina’s. So far so good: we can grant that such a generalisation is possible and, admittedly as most generalisations are, valuable. Implicitly buried in Côté’s discussion, however, are issues of agent-neutrality and agent-relativity that merit bringing out more explicitly. For being more explicit about these issues grants even more generality to Côté’s approach. The balance of the text explains why.</p>
 
 <p style="padding-left:100px;"><u>Preliminaries</u></p>
+
+<p>Start with some preliminaries. Say that \(X\) is the (universal finite) set of all mutually exclusive options. Set \(Z\), the power set of \(X\), is the set of all possible opportunity sets. The relation \(\succeq\) is then a binary relation on \(Z\), that is, \(\succeq \subseteq Z \times Z\), that is transitive, nonsymmetric and reflexive (387). Thus, \(A \succeq B\) means (the opportunity set) \(A\) offers at least as much freedom as (the opportunity set) \(B\). The question now is: what kind of properties should \(\succeq\) satisfy so that the resulting (comparative) measure of freedom is a plausible one? (A question that Côté asks but does not go into with respect to his own approach.)</p>
+
+<p>There are many existing measures motivated by, or argued against on the basis of, numerous properties (see Côté’s excellent discussion of the classical literature here). But they all, Côté argues, share one common feature that precludes incorporating the issue of differential accessibility: they all assume that set membership is bivalent. That is to say, that an option \(w\) either belongs to or does not belong to an opportunity set \(W\). It is this bivalence that Côté questions and then relaxes as a way of introducing a new measure that is sensitive to weakness-of-will issues.</p>
+
+<p style="padding-left:100px;"><u>Côté’s proposal: Fuzzy freedom</u></p>
+
+
