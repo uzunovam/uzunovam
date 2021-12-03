@@ -61,6 +61,16 @@ date: 2020-07-22
 
 <p>Of course, situations with a unique Nash equilibrium need not be Prisoners’ Dilemma games. One would need further restrictions to ensure the existence of a different credence vector that Pareto dominates the equilibrium. (Put differently, Proposition 1 does not generalise as easily as Proposition 2. Perhaps this is why Zollman admits that the specific functional form of the joint accuracy function he works with is “not an innocuous assumption”, 1388.) What I am more interested in here, however, is the possibility of generating Chicken games. A Chicken game is a multiple-equilibria game where the equilibria involve agents taking <cite>different</cite> actions. Now, in the framework above, this is still a bit vague so we need to be a bit more careful about what the relevant actions are.</p>
 
+<p style="padding-left:100px;"><u> Generating multiple equilibria</u></p>
+
+<p>Let’s start by distinguishing between two types of ‘actions’: one possible action is to stick to your given credence; another possible action (type) is to change your credence (with token actions here referring to all the credences one could pick). In a game with joint accuracy functions that are strictly monotonic in one’s credence, the unique Nash equilibrium is the vector of each agent sticking to their credence. (It is at places like these that the ‘epistemic versus pragmatic’ distinction Zollman opens the paper with starts to thread on shaky ground. I’ll bracket this issue as I don’t think it’s that crucial to the insights in the paper.) So if we want to generate multiple equilibria, we need to relax the assumption of strict monotonicity. Take weak monotonicity:</p>
+
+
+
+
+
+
+
 
 
 
