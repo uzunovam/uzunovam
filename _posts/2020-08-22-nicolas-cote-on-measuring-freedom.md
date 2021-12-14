@@ -23,4 +23,6 @@ date: 2020-08-22
 
 <p style="padding-left:100px;"><u>Côté’s proposal: Fuzzy freedom</u></p>
 
-
+<p>\(\begin{tikzpicture}
+ \draw[thick] (0,0)--(1,1);
+\end{tikzpicture}\)</p>
