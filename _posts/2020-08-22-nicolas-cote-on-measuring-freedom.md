@@ -22,5 +22,3 @@ date: 2020-08-22
 <p>There are many existing measures motivated by, or argued against on the basis of, numerous properties (see Côté’s excellent discussion of the classical literature here). But they all, Côté argues, share one common feature that precludes incorporating the issue of differential accessibility: they all assume that set membership is bivalent. That is to say, that an option \(w\) either belongs to or does not belong to an opportunity set \(W\). It is this bivalence that Côté questions and then relaxes as a way of introducing a new measure that is sensitive to weakness-of-will issues.</p>
 
 <p style="padding-left:100px;"><u>Côté’s proposal: Fuzzy freedom</u></p>
-
-<p style="padding-left:100px;"><img src="https://uzunovam.github.io/images/graph1.png" /></p>
