@@ -23,4 +23,4 @@ date: 2020-08-22
 
 <p style="padding-left:100px;"><u>Côté’s proposal: Fuzzy freedom</u></p>
 
-<p style="padding-left:100px;">![graph one]({{ site.url }}/images/graph1.jpg)</p>
+<p style="padding-left:100px;">![graph one]({{ site.url }}/images/graph1.png)</p>
