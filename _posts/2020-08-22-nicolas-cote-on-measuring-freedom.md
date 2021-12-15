@@ -82,3 +82,13 @@ date: 2020-08-22
 <p>Let \(Z\) collect the opportunity sets of all agents. A measure of freedom, or more appropriately, a freedom ranking, is a binary relation on the set of agential opportunity sets, \(\succeq \subseteq Z \times Z\). (We can denote by \(\succeq_{c}\) (\(\succeq_{f}\)) the classical (fuzzy) relation defined on the set of classical (fuzzy) opportunity set \(Z_{c}\) (\(Z_{f}\)). Although this will be unnecessary notation in what follows.)</p>
 
 <p>Now, let’s define a generelised simple cardinality-based ordering:</p>
+
+<p style="padding-left:100px;"><strong>Generalised simple cardinality-based ordering (GSCO)</strong>. \(\succeq\) will be called a GSCO if and only if for all agent-centric opportunity sets, \((X, \mu^{i}), (X, \mu^{j}) \in Z\), we have:</p>
+
+<p style="padding-left:100px;">\((X, \mu^{i}) \succeq (X, \mu^{j})\) if and only if \(\sum_{w \in X} \mu^{i}(w) \geq \sum_{w \in X} \mu^{j}(w)\)</p>
+
+<p style="padding-left:100px;">For simplicity, we might introduce the following notation: \(|(X, \mu^{i})| = \sum_{w \in X} \mu^{i}(w)\). A GSCO can then be defined as:</p>
+
+<p style="padding-left:100px;">\((X, \mu^{i}) \succeq (X, \mu^{j})\) if and only if \(|(X, \mu^{i})| \geq |(X, \mu^{j})|\)</p>
+
+<p>A GSCO simply ranks agent-centric opportunity sets according to their cardinality. (Notice, however, that Côté’s approach makes it much more explicit that we are ranking the freedom levels of different agents. Alternatively, ranking the freedom levels of the same agent across time, and hence of different selves of the same agent, would be formally equivalent.) We can distinguish between the fuzzy and the classical variety:</p>
