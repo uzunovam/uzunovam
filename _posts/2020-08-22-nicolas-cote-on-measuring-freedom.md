@@ -92,3 +92,11 @@ date: 2020-08-22
 <p style="padding-left:100px;">\((X, \mu^{i}) \succeq (X, \mu^{j})\) if and only if \(|(X, \mu^{i})| \geq |(X, \mu^{j})|\)</p>
 
 <p>A GSCO simply ranks agent-centric opportunity sets according to their cardinality. (Notice, however, that Côté’s approach makes it much more explicit that we are ranking the freedom levels of different agents. Alternatively, ranking the freedom levels of the same agent across time, and hence of different selves of the same agent, would be formally equivalent.) We can distinguish between the fuzzy and the classical variety:</p>
+
+<p style="padding-left:100px;"><strong>Fuzzy simple cardinality-based ordering (FSCO)</strong>. \(\succeq\) will be called a FSCO if and only if \(\succeq\) is a GSCO and for all agents \(i \in N\):</p>
+
+<p style="padding-left:100px;">\(\mu^{i} = f^{i}\)</p>
+
+<p style="padding-left:100px;"><strong>Classical simple cardinality-based ordering (CSCO)</strong>. \(\succeq\) will be called a CSCO if and only if \(\succeq\) is a GSCO and for all agents \(i \in N\):</p>
+
+<p style="padding-left:100px;">\(\mu^{i} = c^{i}\)</p>
