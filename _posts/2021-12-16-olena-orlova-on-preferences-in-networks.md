@@ -13,6 +13,8 @@ date: 2021-12-16
 
 <p>To get a sense of this contribution and why it is important, consider the following example. There are five agents, \(A\), \(B\), \(C\), \(D\), and \(E\), in a social network that can be illustrated as follows (for now, focus on the left panel; the example is adapted from the one on 38):</p>
 
+<p style="padding-left:100px;"><section>figure 1</section></p>
+
 <p style="padding-left:100px;"><img src="https://uzunovam.github.io/images/graph1.png" /></p>
 
 <p>Suppose that a link between two agents refers to the existence of a friendship (as the network is undirected, friendship is reciprocal: if \(A\) is friends with \(B\), \(B\) is also friends with \(A\)). For instance, in this network, \(A\), \(B\), and \(C\) are a close-knit group where every agent is friends with every other agent, while \(C\), clearly the most popular agent, is friends with everyone. Suppose, further, that each agent may do either of two things: (1) drink coffee (indicated in blue), or (2) drink tea (indicated in red). Then consider the situation depicted in the left panel above, where \(B\) and \(C\) drink coffee and \(A\), \(D\), and \(E\) drink tea.</p>
@@ -22,6 +24,8 @@ date: 2021-12-16
 <p>One drawback of the utility function above is that it is entirely dependent on what Orlova calls ‘interactional utility’: the part of one’s utility function that captures network effects. It ignores however, in Orlova’s words, one’s ‘idiosyncratic utility’: the part of one’s utility function that captures one’s idiosyncratic preferences (here, over coffee and tea). Orlova’s contribution is to combine these two components in an overall utility function that captures both network and idiosyncratic effects.</p>
 
 <p>To appreciate why combining these effects might be important, let’s now distinguish between the actions agents may take (drink coffee or tea) and their exogenously given, idiosyncratic preferences over these actions (prefer coffee or tea). Consider the following variation on the situation above:</p>
+
+<p style="padding-left:100px;"><section>figure 2</section></p>
 
 <p style="padding-left:100px;"><img src="https://uzunovam.github.io/images/graph2.png" /></p>
 
@@ -37,7 +41,9 @@ date: 2021-12-16
 
 <p style="padding-left:100px;"><u>Preliminaries</u></p>
 
-<p>A network, like the one(s) above, is a pair \((N,G)\), where \(N=\{1,\dots,n\}\) is a set of nodes (or agents) and \(G\) is an adjacency matrix indicating the (undirected) links between the agents. Thus, \(G_{ij} \in \{0,1\}\) for all agents \(i,j \in N\), where \(G_{ij}=0\) means that there is no link between \(i\) and \(j\) (above, that they are not friends) and \(G_{ij}=1\) means that there is (above, that they are friends). Collect in set \(N_{i}(G) = \{j \in N \ | \ G_{ij}=1\}\) all agents to which \(i\) is connected (above, is friends with) and let \(d_{i}\) denote the cardinality of (the number of members in) this set (above, the number of \(i\)’s friends). Each agent has one of two actions, denoted by \(x_{i} \in \{0,1\}\), and each agent has a preference for one of the two actions, denoted by \(\theta_{i} \in \{0,1\}\). The vectors \(\mathbf{x}\) and \(\mathbf{\theta}\) denote arbitrary action and preference profiles, respectively. For simplicity, the \(d_{i}\)-tuple \(\mathbf{x}_{N_{i}(G)}\) denotes the actions of \(i\)’s friends under \(\mathbf{x}\).</p>
+<p>A network, like the one(s) above, is a pair \((N,G)\), where \(N=\{1,\dots,n\}\) is a set of nodes (or agents) and \(G\) is an adjacency matrix indicating the (undirected) links between the agents. Thus, \(G_{ij} \in \{0,1\}\) for all agents \(i,j \in N\), where \(G_{ij}=0\) means that there is no link between \(i\) and \(j\) (above, that they are not friends) and \(G_{ij}=1\) means that there is (above, that they are friends). For example,
+
+Collect in set \(N_{i}(G) = \{j \in N \ | \ G_{ij}=1\}\) all agents to which \(i\) is connected (above, is friends with) and let \(d_{i}\) denote the cardinality of (the number of members in) this set (above, the number of \(i\)’s friends). Each agent has one of two actions, denoted by \(x_{i} \in \{0,1\}\), and each agent has a preference for one of the two actions, denoted by \(\theta_{i} \in \{0,1\}\). The vectors \(\mathbf{x}\) and \(\mathbf{\theta}\) denote arbitrary action and preference profiles, respectively. For simplicity, the \(d_{i}\)-tuple \(\mathbf{x}_{N_{i}(G)}\) denotes the actions of \(i\)’s friends under \(\mathbf{x}\).</p>
 
 <p>We can now define the interactional utility function Orlova works with. For any \(i \in N\), it has the following form (32):</p>
 
