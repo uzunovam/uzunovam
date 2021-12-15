@@ -120,3 +120,9 @@ date: 2020-08-22
 <p style="padding-left:100px;">(2) \((X^{i}_{+}, \mathbf{a}_{+}^{i}) \succ (Y^{i}_{+}, \mathbf{b}_{+}^{i})\) and \((X^{j}_{+}, \mathbf{a}_{+}^{j}) \succ (Y^{j}_{+}, \mathbf{b}_{+}^{j})\)</p>
 
 <p>Next, take a version of Pattanaik and Xu’s third axiom:</p>
+
+<p style="padding-left:100px;"><strong>Independence (a) (INDa)</strong>. Take two opportunity sets, \((X_{+}^{i}, \mathbf{a}_{+}^{i})\) and \((X_{+}^{j}, \mathbf{a}_{+}^{j})\), and consider two options (not necessarily distinct) that are inaccessible to both agents: \(x, y \in X \setminus \{X_{+}^{i} \cup X_{+}^{j}\}\). \succeq satisfies INDa when for all opportunity sets and for all such inaccessible options \(x, y\):</p>
+
+<p style="padding-left:100px;">\((X_{+}^{i} \cup \{x\}, \mathbf{b}^{i}_{+}) \succeq (X_{+}^{j} \cup \{y\}, \mathbf{b}_{+}^{j})\) if and only if</p>
+
+<p style="padding-left:100px;">\((X^{i}_{+}, \mathbf{a}^{i}_{+}) \succeq (X^{j}_{+}, \mathbf{a}^{j}_{+})\) and \(\mu^{i}(x) \geq \mu^{j}(y)\)</p>
