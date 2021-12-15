@@ -30,3 +30,15 @@ date: 2020-06-06
 <p>Let’s step back and define what a triggering case is more generally. Before that, we need to set up some preliminaries and define what a threshold is.</p>
 
 <p>Suppose that there are \(n\) individuals and that each individual’s action set \(S\) consists of two actions: to \(x\) or not to \(x\), \(S = \{x, \neg x\}\). (So everyone’s action sets are identical.) An action profile is an \(n\)-tuple with a specific action for each agent: \(\mathbf{a} = (a_{1}, \dots, a_{n}) \in S^{n}\) where \(a_{i} \in \{x, \neg x\}\) for all \(i = 1, \dots, n\). To simplify notation, let \(\mathbf{a}_{K}\) denote the action profile where the first \(k\) agents do \(x\) and the rest of the \(n-k\) agents do \(\neg x\).</p>
+
+<p>Further, let \(o: S^{n} \rightarrow \mathbb{R}\) be an outcome function which takes as an argument some action profile and assigns it a real number. For example, if the context is that of pollution, \(o(\mathbf{a}_{\{1, 2\}}) = 10\) denotes the case where when two people pollute, that leads to a pollution level of ten (whatever the relevant metric of pollution is).</p>
+
+<p>A triggering case can now be defined as follows:</p>
+
+<p style="padding-left:100px;"><strong>Triggering case</strong>. Let \(p \in \mathbb{R}\) be a scalar. Further, let \(T \subseteq N\) be a subset of the set of agents \(N\) and let \(U \subseteq N \setminus T\) be a subset of the complement of \(T\). Then, the tuple \((N, S^{n}, o, p, T, U)\) is a triggering case if and only if:</p>
+
+<p style="padding-left:100px;">\(o(\mathbf{a}_{U})<p\) and \(o(\mathbf{a}_{U \cup T}) \geq p\).</p>
+
+<p>In this definition, \(p\) is the threshold of perceptible or non-negligible relevant harm (for example, pollution, or pain). Then, a triggering case is a case where there is some collection of people \(U \cup T\) who are sufficient for the outcome to be of non-negligible level such that if the \(T\)-coalition refrained from performing the action, that would tip the level below the perceptibility threshold \(p\). As an illustration, recall Hedden’s definition above. In that definition, the collection of agents \(U \cup T\) is any collection of \(k\) agents and the set \(U\) is any collection of \(k - 1\) agents. Thus: \(T = \{i\}\) for any \(i \in N\) and \(U\) is any set of agents with cardinality \(k-1\).</p>
+
+<p>(Note that there is an underlying anonymity axiom assumed in the above, which need not concern us here.)</p>
