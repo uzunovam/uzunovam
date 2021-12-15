@@ -68,3 +68,17 @@ date: 2020-08-22
 <p>Let’s give it a try by revisiting the original characterisation of the classical cardinal measure of freedom by <a href="https://www.jstor.org/stable/40723933" target="_blank" rel="noopener">Pattanaik and Xu</a>, but this time within Côté’s generalised framework. That is to say, consider how we can characterise the <cite>generalised</cite> cardinal measure. To make this framework more tractable, start by assuming a (finite) universal set of options \(X\). Then, define the opportunity set of agent \(i\) to be a pair, \((X, \mu_{X}^{i})\), where \(\mu^{i}_{X}\) is the agent’s set membership function. For simplicity, when the relevant set is the universal set \(X\), I will suppress the subscript and simply refer to \(\mu^{i}_{X}\) as \(\mu^{i}\).</p>
 
 <p>Technically, \(\mu^{i}\) can be any function. The two approaches can now be distinguished by the type of \(\mu^{i}\) they assume:</p>
+
+<p style="padding-left:100px;"><strong>Fuzzy membership function</strong>. An agent’s fuzzy set membership function, \(f^{i}\), is:</p>
+
+<p style="padding-left:100px;">\(f^{i}: X \rightarrow [0, 1]\)</p>
+
+<p style="padding-left:100px;"><strong>Classical membership function</strong>. An agent’s fuzzy set membership function, \(c^{i}\), is:</p>
+
+<p style="padding-left:100px;">\(c^{i}: X \rightarrow \{0, 1\}\)</p>
+
+<p>Fuzzy freedom* can then be characterised by its definition of \((X, \mu^{i})\) as \((X, f^{i})\), while classical freedom* can be characterised by its definition of \((X, \mu^{i})\) as \((X, c^{i})\).</p>
+
+<p>Let \(Z\) collect the opportunity sets of all agents. A measure of freedom, or more appropriately, a freedom ranking, is a binary relation on the set of agential opportunity sets, \(\succeq \subseteq Z \times Z\). (We can denote by \(\succeq_{c}\) (\(\succeq_{f}\)) the classical (fuzzy) relation defined on the set of classical (fuzzy) opportunity set \(Z_{c}\) (\(Z_{f}\)). Although this will be unnecessary notation in what follows.)</p>
+
+<p>Now, let’s define a generelised simple cardinality-based ordering:</p>
