@@ -130,3 +130,19 @@ date: 2020-08-22
 <p style="padding-left:100px;"><strong>Distribution independence (DI)</strong>. Take two opportunity sets, \((X_{+}^{i}, \mathbf{a}_{+}^{i})\) and \((X_{+}^{j}, \mathbf{a}_{+}^{j})\) that have a different cardinality. Now, take two transformations of the sets such that \(X_{+}^{i}\) and \(X_{+}^{j}\) remain unchanged, but the membership functions of each agent equalise their respective membership grades across all positively accessible options. That is to say, the membership grade of each option available to \(i\) now becomes: \(|(X_{+}^{i}, \mathbf{a}_{+}^{i})| \setminus |X^{i}_{+}|\). (Similarly, for \(j\).) Denote these two equalising transformations by \((X^{i}_{+}, \mathbf{e}^{i}_{+})\) and \((X^{j}_{+}, \mathbf{e}^{j}_{+})\), respectively. Then, \(\succeq\) satisfies DI when for all opportunity sets and their equalising transformations:</p>
 
 <p style="padding-left:100px;">\((X_{+}^{i}, \mathbf{a}^{i}_{+}) \succeq (X_{+}^{j}, \mathbf{a}_{+}^{j})\) if and only if \((X_{+}^{i}, \mathbf{e}^{i}_{+}) \succeq (X_{+}^{j}, \mathbf{e}_{+}^{j})\)</p>
+
+<p>Clearly, DI expresses the intuition that the distribution of membership grades does not matter: what matters is the total sum of the grades—or, put differently, the cardinality of the opportunity sets.</p>
+
+<p>The first thing to notice from this restatement of the axioms in Côté’s generalised framework is that the axioms have severe restrictions on the membership functions—and hence <cite>severe cardinality restrictions</cite>—baked into them. This might feel like cheating but, intuitively, it simply makes Pattanaik and Xu’s original characterisation of the cardinal measure not so surprising.</p>
+
+<p>Now we can show a result analogous to the one by Pattanaik and Xu:</p>
+
+<p style="padding-left:100px;"><strong>Proposition</strong>. \(\succeq\) satisfies INSa, MON, INDa, and DI if and only if it is the GSCO.</p>
+
+<p>Notice here that this is a characterisation of GSCO, and not of its special varieties, be it the fuzzy or classical one. To obtain the special fuzzy variety, one would need to impose further normalisation conditions on the function (so that grades fall in the unit interval). This will not be pursued here.</p>
+
+<p><cite>Proof</cite>: The GSCO clearly satisfies the axioms.</p>
+
+<p>What needs to be proved is the following:</p>
+
+<p>For all opportunity sets \((X_{+}^{i}, \mathbf{a}_{+}^{i}), (X_{+}^{j}, \mathbf{a}_{+}^{j}) \in Z\):</p>
