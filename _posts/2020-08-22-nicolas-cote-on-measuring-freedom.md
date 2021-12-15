@@ -112,3 +112,11 @@ date: 2020-08-22
 <p>INSa generalises Pattanaik and Xu’s original axiom that concerns indifference in the case of <cite>perfect</cite> accessibility to indifference in the case of <cite>equal</cite> accessibility.</p>
 
 <p>Consider next a variant of Pattanaik and Xu’s second axiom:</p>
+
+<p style="padding-left:100px;"><strong>Monotonicity (MON)</strong>. Take two pairs of opportunity sets: \((X^{i}_{+}, \mathbf{a}_{+}^{i})\) and \((X^{j}_{+}, \mathbf{a}_{+}^{j})\), and \((Y^{i}_{+}, \mathbf{b}_{+}^{i})\) and \((Y^{j}_{+}, \mathbf{b}_{+}^{j})\). Suppose that the latter pair differs from the former in that an equal amount has been added to all membership grades of the two agents. Then \(\succeq\) satisfies MON when for all such pairs the following two hold:</p>
+
+<p style="padding-left:100px;">(1) \((X^{i}_{+}, \mathbf{a}_{+}^{i}) \succeq (X^{j}_{+}, \mathbf{a}_{+}^{j})\) if and only if \((Y^{i}_{+}, \mathbf{b}_{+}^{i}) \succeq (Y^{j}_{+}, \mathbf{b}_{+}^{j})\)</p>
+
+<p style="padding-left:100px;">(2) \((X^{i}_{+}, \mathbf{a}_{+}^{i}) \succ (Y^{i}_{+}, \mathbf{b}_{+}^{i})\) and \((X^{j}_{+}, \mathbf{a}_{+}^{j}) \succ (Y^{j}_{+}, \mathbf{b}_{+}^{j})\)</p>
+
+<p>Next, take a version of Pattanaik and Xu’s third axiom:</p>
