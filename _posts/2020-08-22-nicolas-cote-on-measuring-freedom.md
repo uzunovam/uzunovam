@@ -146,3 +146,13 @@ date: 2020-08-22
 <p>What needs to be proved is the following:</p>
 
 <p>For all opportunity sets \((X_{+}^{i}, \mathbf{a}_{+}^{i}), (X_{+}^{j}, \mathbf{a}_{+}^{j}) \in Z\):</p>
+
+<p style="padding-left:100px;">If \(|(X_{+}^{i}, \mathbf{a}_{+}^{i})| \geq |(X_{+}^{j}, \mathbf{a}_{+}^{j})|\), then \((X_{+}^{i}, \mathbf{a}_{+}^{i}) \succeq (X_{+}^{j}, \mathbf{a}_{+}^{j})\)</p>
+
+<p>Like Pattanaik and Xu, I break this down into two parts:</p>
+
+<p style="padding-left:100px;">If \(|(X_{+}^{i}, \mathbf{a}_{+}^{i})| = |(X_{+}^{j}, \mathbf{a}_{+}^{j})|\), then \((X_{+}^{i}, \mathbf{a}_{+}^{i}) \sim (X_{+}^{j}, \mathbf{a}_{+}^{j}) \quad (1)\)</p>
+
+<p style="padding-left:100px;">If \(|(X_{+}^{i}, \mathbf{a}_{+}^{i})| > |(X_{+}^{j}, \mathbf{a}_{+}^{j})|\), then \((X_{+}^{i}, \mathbf{a}_{+}^{i}) \succ (X_{+}^{j}, \mathbf{a}_{+}^{j}) \quad (2)\)</p>
+
+<p>(1) Pattanaik and Xu prove (1) by induction but in the generalised framework this is no longer possible. To see why, notice that now it is possible to have two opportunity sets with the same cardinality such that |X_{+}^{i}| \neq |X_{+}^{j}|. This means that agents can have an identical accessibility while having (positive) accessibility to an <cite>unequal</cite> number of options. This is a significant departure from the classical cardinal measure. Why? Because it allows us to say that an agent with a single <cite>perfectly</cite> accessible option is more free than another agent with a number of <cite>im</cite>perfectly accessible options. Intuitively, in these limit cases, the generalised cardinal measure shifts our intuitions from the number of available options to the degree, or <cite>quality</cite>, of accessibility to these options. And it allows us to test our intuitions on the kind of trade-offs we believe can be plausibly made between the number of available options and the quality of availability involved. (Alternatively, one can think of the classical cardinal measure as having a <cite>ceteris paribus</cite> clause such that it holds the quality of accessibility fixed, allowing intuitions to vary only over the number of options.)</p>
