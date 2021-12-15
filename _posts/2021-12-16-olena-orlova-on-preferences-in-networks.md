@@ -42,3 +42,5 @@ date: 2021-12-16
 <p>We can now define the interactional utility function Orlova’s works with. For any \(i \in N\), it has the following form (32):</p>
 
 <p style="padding-left:100px;">\(u_{i}(\theta_{i}, x_{i}, \mathbf{x}_{N_{i}(G)}) = \sum_{j \in N_{i}(G)} \left( \delta \cdot \mathbb{1}_{x_{i}=x_{j}} + (1-\delta) \cdot \mathbb{1}_{x_{i}\neq x_{j}} + \lambda \cdot \mathbb{1}_{x_{i}=\theta_{i}} \right)\)</p>
+
+<p>Where \(\delta \in [0,1]\) is the ‘matching’ benefit (and \(1-\delta\) is the ‘mis-matching’ benefit) and \(\lambda \in [0,\infty)\) is the benefit an agent obtains from following their idiosyncratic preference. Here, \(\mathbb{1}_{x_{i}=x_{j}}\) (\(\mathbb{1}_{x_{i}\neq x_{j}}\)) is an indicator function that is equal to one when \(j\)’s action matches (mis-matches) \(i\)’s, and zero otherwise. Similarly, \(\mathbb{1}_{x_{i}=\theta_{i}}\) is equal to one when \(i\)’s action matches her preference, and zero otherwise.</p>
