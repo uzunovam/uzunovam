@@ -13,9 +13,9 @@ date: 2021-12-16
 
 <p>To get a sense of this contribution and why it is important, consider the following example. There are five agents, \(A\), \(B\), \(C\), \(D\), and \(E\), in a social network that can be illustrated as follows (for now, focus on the left panel; the example is adapted from the one on 38):</p>
 
-<p style="padding-left:100px;"><smallcaps>figure 1</smallcaps></p>
-
 <p style="padding-left:100px;"><img src="https://uzunovam.github.io/images/graph1.png" /></p>
+
+<p style="padding-left:100px;"><smallcaps>figure 1</smallcaps></p>
 
 <p>Suppose that a link between two agents refers to the existence of a friendship (as the network is undirected, friendship is reciprocal: if \(A\) is friends with \(B\), \(B\) is also friends with \(A\)). For instance, in this network, \(A\), \(B\), and \(C\) are a close-knit group where every agent is friends with every other agent, while \(C\), clearly the most popular agent, is friends with everyone. Suppose, further, that each agent may do either of two things: (1) drink coffee (indicated in blue), or (2) drink tea (indicated in red). Then consider the situation depicted in the left panel above, where \(B\) and \(C\) drink coffee and \(A\), \(D\), and \(E\) drink tea.</p>
 
@@ -25,9 +25,9 @@ date: 2021-12-16
 
 <p>To appreciate why combining these effects might be important, let’s now distinguish between the actions agents may take (drink coffee or tea) and their exogenously given, idiosyncratic preferences over these actions (prefer coffee or tea). Consider the following variation on the situation above:</p>
 
-<p style="padding-left:100px;"><smallcaps>figure 2</smallcaps></p>
-
 <p style="padding-left:100px;"><img src="https://uzunovam.github.io/images/graph2.png" /></p>
+
+<p style="padding-left:100px;"><smallcaps>figure 2</smallcaps></p>
 
 <p>Here, the colour of the outline of a node indicates the actions in the respective situation: for example, on the left, it is still the case that \(A\), \(D\), and \(E\) drink tea while \(B\) and \(C\) drink coffee. The colour of the letter in a node now indicates that agent’s idiosyncratic preference: for example, on the left, \(E\) prefers coffee (to tea) while \(A\), \(B\), \(C\), and \(D\) prefer tea (to coffee). Suppose that ‘mis-matching’ still carries a utility benefit of \(2/3\) while ‘matching’ yields a benefit of \(1/3\). But now further suppose that, in any situation where an agent performs the action she prefers, she gets a benefit of \(1/4\) for each of her friends; otherwise, when she does not perform her preferred action, she gets a benefit of zero. When \(C\) drinks coffee (left panel), \(C\)’s utility is \(2/3+1/3+2/3+2/3=7/3\). When \(C\) drinks her preferred beverage, tea (right panel), her utility is \(1/3+2/3+1/3+1/3+4/4=8/3\). And so \(C\) is better off drinking tea.</p>
 
