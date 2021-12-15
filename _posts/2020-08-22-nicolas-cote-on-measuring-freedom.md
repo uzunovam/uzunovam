@@ -22,3 +22,21 @@ date: 2020-08-22
 <p>There are many existing measures motivated by, or argued against on the basis of, numerous properties (see Côté’s excellent discussion of the classical literature here). But they all, Côté argues, share one common feature that precludes incorporating the issue of differential accessibility: they all assume that set membership is bivalent. That is to say, that an option \(w\) either belongs to or does not belong to an opportunity set \(W\). It is this bivalence that Côté questions and then relaxes as a way of introducing a new measure that is sensitive to weakness-of-will issues.</p>
 
 <p style="padding-left:100px;"><u>Côté’s proposal: Fuzzy freedom</u></p>
+
+<p>In short, Côté’s proposal is to conceive of opportunity sets not as bivalent sets but as fuzzy sets. More precisely, say that an opportunity set is a pair, \((X, m)\) where \(X\) is the familiar set of all options and \(m\) is a membership function that maps each element of \(X\) on the unit interval. The scalar \(m(w)\) of an option \(w \in X\) is the option’s ‘membership grade’: in the classical bivalent case, an option can have only one of two grades—zero or one. Let \(Z^{*}\) collect all such pairs. Further, given a set \(W\), let \(\mu_{W}\) denote the set’s membership function. (Hence, by definition, \(m \equiv \mu_{X}\).) And let the cardinality of a set be defined as the sum of its elements’ membership grades: \(|W| = \sum_{w \in W} \mu_{W}(w)\).</p>
+
+<p>Clearly, fuzzy sets expand the classical bivalent case where an option \(w\) in a set \(W\) can be either, as Côté’s puts it, “fully accessible” (when \(\mu_{W}(w) = 1\)), or “not available” (when \(\mu_{W}(w) = 0\)). Rather, an option can now also be “partially accessible” (when \(\mu_{W}(w) \in (0, 1)\)) (406). The substantive interpretation Côté gives of \(\mu_{W}(w)\) is that of “conditional probability”: “the chance that an agent can successfully choose [\(w\)] if they intend to” (407).</p>
+
+<p>Let’s summarise the two approaches. In Côté’s fuzzy approach, we have:</p>
+
+<p style="padding-left:100px;"><strong>Fuzzy freedom</strong>. Freedom (of choice) is a function of the accessibility of options in an agent’s opportunity set, where an agent’s opportunity set is a pair \((X, \mu_{X})\), with \(X\) being the respective universal set and \(\mu_{X}\) being the set’s membership function:</p>
+
+<p style="padding-left:100px;">\(\mu_{X}: X \rightarrow [0, 1]\)</p>
+
+<p>It’s a generalisation of the classical approach where the only difference is the definition of \(\mu_{X}\):</p>
+
+<p style="padding-left:100px;"><strong>Classical freedom</strong>. Freedom (of choice) is a function of the accessibility of options in an agent’s opportunity set, where an agent’s opportunity set is a pair \((X, \mu_{X})\), with \(X\) being the respective universal set and \(\mu_{X}\) being the set’s membership function:</p>
+
+<p style="padding-left:100px;">\(\mu_{X}: X \rightarrow \{0, 1\}\)</p>
+
+<p>So far so good. How do the two approaches handle the case of Regina and Willy? All things equal (the quality and desirability of options, say), that is to say, when set membership is the only issue relevant to freedom, Côté claims, the two approaches fare differently. This, however, is not true; at least, not with the machinery introduced so far. Notice that, in Côté’s framework (outlined above), membership functions are set-specific (I used \(\mu_{X}\) instead of \(m\) to underscore this): different sets have different membership functions. This is unobjectionable and it is indeed what allows Côté to generalise the ideas of cardinality and membership to fuzzy sets. However, what Côté needs in order to treat Regina’s and Willy’s cases differently are (additionally) agent-specific membership functions. In other words, we need to allow for the fact that <cite>for each set</cite>, there exists <cite>for each agent</cite> a membership function \(\mu_{X}^{i}\). Intuitively, this simply brings out explicitly the approach that Côté is at least implicitly getting at:</p>
