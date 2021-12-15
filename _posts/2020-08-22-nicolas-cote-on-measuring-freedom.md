@@ -121,8 +121,14 @@ date: 2020-08-22
 
 <p>Next, take a version of Pattanaik and Xu’s third axiom:</p>
 
-<p style="padding-left:100px;"><strong>Independence (a) (INDa)</strong>. Take two opportunity sets, \((X_{+}^{i}, \mathbf{a}_{+}^{i})\) and \((X_{+}^{j}, \mathbf{a}_{+}^{j})\), and consider two options (not necessarily distinct) that are inaccessible to both agents: \(x, y \in X \setminus \{X_{+}^{i} \cup X_{+}^{j}\}\). \succeq satisfies INDa when for all opportunity sets and for all such inaccessible options \(x, y\):</p>
+<p style="padding-left:100px;"><strong>Independence (a) (INDa)</strong>. Take two opportunity sets, \((X_{+}^{i}, \mathbf{a}_{+}^{i})\) and \((X_{+}^{j}, \mathbf{a}_{+}^{j})\), and consider two options (not necessarily distinct) that are inaccessible to both agents: \(x, y \in X \setminus \{X_{+}^{i} \cup X_{+}^{j}\}\). \(\succeq\) satisfies INDa when for all opportunity sets and for all such inaccessible options \(x, y\):</p>
 
 <p style="padding-left:100px;">\((X_{+}^{i} \cup \{x\}, \mathbf{b}^{i}_{+}) \succeq (X_{+}^{j} \cup \{y\}, \mathbf{b}_{+}^{j})\) if and only if</p>
 
 <p style="padding-left:100px;">\((X^{i}_{+}, \mathbf{a}^{i}_{+}) \succeq (X^{j}_{+}, \mathbf{a}^{j}_{+})\) and \(\mu^{i}(x) \geq \mu^{j}(y)\)</p>
+
+<p>We need an extra axiom to characterise the generalised cardinal measure:</p>
+
+<p style="padding-left:100px;"><strong>Distribution independence (DI)</strong>. Take two opportunity sets, \((X_{+}^{i}, \mathbf{a}_{+}^{i})\) and \((X_{+}^{j}, \mathbf{a}_{+}^{j})\) that have a different cardinality. Now, take two transformations of the sets such that \(X_{+}^{i}\) and \(X_{+}^{j}\) remain unchanged, but the membership functions of each agent equalise their respective membership grades across all positively accessible options. That is to say, the membership grade of each option available to i now becomes: \(|(X_{+}^{i}, \mathbf{a}_{+}^{i})| \setminus |X^{i}_{+}|\). (Similarly, for \(j\).) Denote these two equalising transformations by \((X^{i}_{+}, \mathbf{e}^{i}_{+})\) and \((X^{j}_{+}, \mathbf{e}^{j}_{+})\), respectively. Then, \(\succeq\) satisfies DI when for all opportunity sets and their equalising transformations:</p>
+
+<p style="padding-left:100px;">\((X_{+}^{i}, \mathbf{a}^{i}_{+}) \succeq (X_{+}^{j}, \mathbf{a}_{+}^{j})\) if and only if \((X_{+}^{i}, \mathbf{e}^{i}_{+}) \succeq (X_{+}^{j}, \mathbf{e}_{+}^{j})\)</p>
