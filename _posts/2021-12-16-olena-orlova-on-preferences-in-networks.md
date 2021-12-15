@@ -29,19 +29,6 @@ date: 2021-12-16
 
 <p>The important thing to notice here is that interactional and idiosyncratic utility may pull in different directions. \(C\) may be a contrarian but if she cared enough about her idiosyncratic tastes, then she may be better off going for what her friends do if <cite>that</cite> were what she cares about. Alternatively, \(C\) may not have strong beverage preferences—if going for her preferred drink were worth just, say, \(1/12\) per friend, \(C\) would be better off being contrarian and drinking coffee.</p>
 
-<p>Preferences over and choices of beverage are innocent enough, but other contexts reveal how important understanding these interactional effects is. Orlova gives the example of school choice (30): in the illustration above, the agents could be parents who are friends or part of a neighbourhood; their actions could be the school (one of two) they choose for their children and their idiosyncratic preferences could be their preferences over these schools. School choice, especially among tight friendship or neighbourhood networks, has wider segregation effects—understanding when parents in a close network <cite>coordinate</cite> on the same school is essential for understanding how segregation may arise and be maintained.</p>
+<p>Preferences over and choices of beverage are innocent enough, but other contexts reveal how important understanding these interactional effects is. Orlova gives the example of school choice (30): in the illustration above, the agents could be parents who are friends or part of a neighbourhood; their actions could be the school (one of two) they choose for their children and their idiosyncratic preferences could be their preferences over these schools. School choice, especially among tight friendship or neighbourhood networks, has wider segregation effects—understanding when parents in a close network <cite>coordinate</cite> on the same school is essential for understanding how segregation may arise and be maintained. The two, among others, classes of games that Orlova focuses on—coordination games, where agents adopt the same action, and anti-coordination games, where agents choose different actions—are immensely relevant here.</p>
 
-<p>In passing (30n6), Orlova mentions that idiosyncratic preferences may also be interpreted as <cite>identities</cite>. </p>
-
-
-
-
-
-
-
-
-
-
-
-
-<p>Orlova mentions that the (heterogeneous) action preferences may be interpreted as identities (30n6).</p>
+<p>In passing (30n6), Orlova mentions that idiosyncratic preferences may also be interpreted as <cite>identities</cite>. In fact, I think we can go further and interpret the whole model as a model of <cite>identity choice</cite>. The groups, broadly construed, that we decide to become members of depend both on idiosyncratic values we hold and on group effects (say, status or group benefits). Understanding the interaction between these two sources of identification is then helpful for understanding the conditions under which we end up with ‘narrow’ or ‘broad’ (or ‘multiple’) identities. (See Partha Dasgupta and Sanjeev Goyal’s <a href="https://doi.org/10.1628/jite-2019-0025" target="_blank" rel="noopener">model of narrow identities</a> and <a href="https://ejpe.org/journal/issue/view/27" target="_blank" rel="noopener">this symposium</a> on the paper.) These cases would correspond to coordination and anti-coordination games and so the bridge between Orlova’s model and the economic literature on identity choice is an easy one to build.</p>
