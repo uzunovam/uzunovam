@@ -54,3 +54,7 @@ date: 2021-12-16
 <p>There are (at least) two types of situations that are intriguing in this setting. First, equilibria where <cite>all</cite> agents adopt the same action—in Orlova’s words, these are <cite>homogeneous equilibria</cite> (otherwise, they are called <cite>heterogeneous</cite>). Second, equilibria where <cite>all</cite> agents adopt an action that coincides with their idiosyncratic preference—in Orlova’s words, these are <cite>fully satisfying equilibria</cite> (otherwise, they are called <cite>frustrating</cite>).</p>
 
 <p>For instance, in <smallcaps>figure 2</smallcaps>, both action profiles (on the left and right) are heterogeneous (since both actions, drink coffee and tea, are chosen by some agents) and frustrating (since there are some agents who do not adopt an action matching their preference). Alternatively, the following figure illustrates a homogeneous and a fully satisfying action profile.</p>
+
+<p style="padding-left:100px;"><img src="https://uzunovam.github.io/images/graph3.png" /></p>
+
+<p style="padding-left:100px;"><smallcaps>figure 3</smallcaps></p>
