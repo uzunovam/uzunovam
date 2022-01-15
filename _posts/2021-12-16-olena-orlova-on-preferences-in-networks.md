@@ -67,3 +67,9 @@ date: 2021-12-16
 <p style="padding-left:100px;">(1) \(l^{*}_{\delta,\lambda}(1) = \lambda + 2 \delta - 1\) when \((2\delta -1)\frac{1-2(2\delta-1)}{1+2(2\delta-1)} \leq \lambda < 2\delta-1\) (that is, when \(\lambda\) is sufficiently close to its upper bound);</p>
 
 <p style="padding-left:100px;">(2) \(l^{*}_{\delta,\lambda}(1) = \lambda + 2 \delta\) when \(0 < \lambda < (2\delta -1)\frac{1-2(2\delta-1)}{1+2(2\delta-1)}\) (that is, when \(\lambda\) is sufficiently smaller than its upper bound).</p>
+
+<p>For agents of degree \(2\) (agents \(A\) and \(B\)), we have:</p>
+
+<p style="padding-left:100px;">(1) \(l^{*}_{\delta,\lambda}(2) = \lambda\) when \((2\delta -1)\frac{1}{2\delta} \leq \lambda < 2\delta-1\) (that is, when \(\lambda\) is sufficiently close to its upper bound);</p>
+
+<p style="padding-left:100px;">(2) \(l^{*}_{\delta,\lambda}(2) = \lambda + 1\) when \(0 < \lambda < (2\delta -1)\frac{1}{2\delta}\) (that is, when \(\lambda\) is sufficiently close to its upper bound);</p>
