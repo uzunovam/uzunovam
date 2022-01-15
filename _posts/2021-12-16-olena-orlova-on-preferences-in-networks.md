@@ -79,3 +79,5 @@ And, finally, for agent \(C\) of degree \(4\), we have:
 <p style="padding-left:100px;">(1) \(l^{*}_{\delta,\lambda}(4) = \lambda - \frac{2\delta - 1}{2}\) when \((2\delta -1)\frac{2 + \frac{2\delta-1}{2}}{2 + 2\delta - 1} \leq \lambda < 2\delta-1\) (that is, when \(\lambda\) is sufficiently close to its upper bound);</p>
 
 <p style="padding-left:100px;">(1) \(l^{*}_{\delta,\lambda}(4) = \lambda - \frac{2\delta - 1}{2} + 1\) when \(0 < \lambda < (2\delta -1)\frac{2 + \frac{2\delta-1}{2}}{2 + 2\delta - 1}\) (that is, when \(\lambda\) is sufficiently smaller than its upper bound).</p>
+
+<p>Cases (1) above give the minimum number of companions necessary for the optimality of one’s preferred action when the idiosyncratic benefit \(\lambda\) is sufficiently strong; conversely, cases (2) provide the same condition when the benefit is sufficiently weak. 
