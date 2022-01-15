@@ -65,3 +65,5 @@ date: 2021-12-16
 <p>Consider, first, the agents of degree \(1\) (agents \(D\) and \(E\)). For arbitrary \(\delta\) and \(\lambda\) that satisfy the coordination-game conditions, the minimum number of companions they need for their preferred action to be optimal is given by:</p>
 
 <p style="padding-left:100px;">(1) \(l^{*}_{\delta,\lambda}(1) = \lambda + 2 \delta - 1\) when \((2\delta -1)\frac{1-2(2\delta-1)}{1+2(2\delta-1)} \leq \lambda \leq 2\delta-1\) (that is, when \(\lambda\) is sufficiently close to its upper bound);</p>
+
+<p style="padding-left:100px;">(2) \(l^{*}_{\delta,\lambda}(1) = \lambda + 2 \delta\) when \(0 < \lambda < (2\delta -1)\frac{1-2(2\delta-1)}{1+2(2\delta-1)}\) (that is, when \(\lambda\) is sufficiently smaller than its upper bound).</p>
