@@ -75,3 +75,5 @@ date: 2021-12-16
 <p style="padding-left:100px;">(2) \(l^{*}_{\delta,\lambda}(2) = \lambda + 1\) when \(0 < \lambda < (2\delta -1)\frac{1}{2\delta}\) (that is, when \(\lambda\) is sufficiently smaller than its upper bound).</p>
 
 And, finally, for agent \(C\) of degree \(4\), we have:
+
+<p style="padding-left:100px;">(1) \(l^{*}_{\delta,\lambda}(2) = \lambda - \frac{2\delta - 1}{2}\) when \((2\delta -1)\frac{2 + \frac{2\delta-1}{2}}{2 + 2\delta - 1} \leq \lambda < 2\delta-1\) (that is, when \(\lambda\) is sufficiently close to its upper bound);</p>
