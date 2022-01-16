@@ -108,7 +108,7 @@ And, finally, for agent \(C\) of degree \(4\), we have:
 
 <p>(Where \(\approx^{\uparrow}\) denotes rounding up to the nearest integer.)</p>
 
-<p>Echoing Orlova’s observation above, we see that the underlying preference distribution plays a key role in determining whether the fully satisfying profile is an equilibrium. In particular, under the preference distribution assumed so far, the fully satisfying profile in the left panel of <smallcaps>figure 3</smallcaps> is <cite>not</cite> an equilibrium, as agent \(E\) (of degree one) needs agent \(C\) to be her companion for \(E\) to optimally follow her preferred action (drink coffee).</p>
+<p>Echoing Orlova’s observation above, we see that the underlying preference distribution plays a key role in determining whether the fully satisfying profile is an equilibrium. In particular, under the preference distribution assumed so far, the fully satisfying profile in the left panel of <smallcaps>figure 3</smallcaps> is <cite>not</cite> an equilibrium, as agent \(E\) (of degree one) needs agent \(C\) to be her companion for \(E\) to optimally follow her preferred action (drink coffee). Put differently, to have a fully satisfying equilibrium on this five-agent network, a necessary (though insufficient) condition is for agent \(C\) to be \(D\) and \(E\)’s companion and hence for \(C\) to have the same preference as \(D\) and \(E\).</p>
 
 
 
