@@ -129,12 +129,40 @@ And, finally, for agent \(C\) of degree \(4\), we have:
 
 <p style="padding-left:100px;"><u>Anti-coordination games</u></p>
 
-<p>The case of anti-coordination games is inversely analogous to that of coordination games. We may thus summarise the results in this case more quickly. Theorem 3 (38) establishes the conditions for the existence of equilibria in anti-coordination games: (1) homogeneous equilibria never exist (as in the non-idiosyncratic case), and (2) a heterogenous equilibrium exists if and only if (2.1) satisfied agents of degree \(d_{i}\) (above, in the sets \(S^{cc}\) and \(S^{tt}\)) have at least \(l_{\delta,\lambda}(d_{i})\) neighbours who perform a <cite>different</cite> action, and (2.2) frustrated agents of degree \(d_{i}\) (above, in the sets \(S^{ct}\) and \(S^{tc}\)) have at least \(d_{i} - l_{\delta,\lambda}(d_{i}) + 1\) neighbours who perform a <cite>different</cite> action.</p>
+<p>The case of <cite>anti-coordination games</cite>, where \(0 \leq \delta < 1/2\) and \(0 < \lambda < 1 - 2\delta\), is inversely analogous to that of coordination games. We may thus summarise the results in this case more quickly.</p>
 
+<p>First,  in anti-coordination games, we no longer speak of companions but of <cite>opponents</cite>—neighbours who perform an agent’s <cite>dis</cite>preferred action. Thus, \(l_{\delta,\lambda}(d_{i})\) now gives the minimum number of opponents an agent needs for the optimality of her preferred action. In our five-agent network, \(l_{\delta,\lambda}(d_{i})\) for the three degree values is now given by (notice that the upper bound of the idiosyncratic benefit is now \(1 - 2\delta > 0\)):</p>
+
+<p style="padding-left:100px;">Degree \(1\):</p>
+
+<p style="padding-left:100px;">(1) \(l_{\delta,\lambda}(1) = \lambda + 1 - 2 \delta\) when \((1 - 2\delta)\frac{1-2(1 - 2\delta)}{1+2(1 - 2\delta)} \leq \lambda < 1 - 2\delta\);</p>
+
+<p style="padding-left:100px;">(2) \(l_{\delta,\lambda}(1) = \lambda + 2 - 2 \delta\) when \(0 < \lambda < (1 - 2\delta)\frac{1-2(1 - 2\delta)}{1+2(1 - 2\delta)}\).</p>
+
+<p style="padding-left:100px;">Degree \(2\):</p>
+
+<p style="padding-left:100px;">(1) \(l_{\delta,\lambda}(2) = \lambda\) when \((2\delta -1)\frac{1}{2\delta} \leq \lambda < 2\delta-1\) (that is, when \(\lambda\) is ‘sufficiently close’ to its upper bound);</p>
+
+<p style="padding-left:100px;">(2) \(l_{\delta,\lambda}(2) = \lambda + 1\) when \(0 < \lambda < (2\delta -1)\frac{1}{2\delta}\) (that is, when \(\lambda\) is ‘sufficiently smaller’ than its upper bound).</p>
+
+<p style="padding-left:100px;">Degree \(3\):</p>
+
+<p style="padding-left:100px;">(1) \(l_{\delta,\lambda}(4) = \lambda - \frac{2\delta - 1}{2}\) when \((2\delta -1)\frac{2 + \frac{2\delta-1}{2}}{2 + 2\delta - 1} \leq \lambda < 2\delta-1\) (that is, when \(\lambda\) is ‘sufficiently close’ to its upper bound);</p>
+
+<p style="padding-left:100px;">(1) \(l_{\delta,\lambda}(4) = \lambda - \frac{2\delta - 1}{2} + 1\) when \(0 < \lambda < (2\delta -1)\frac{2 + \frac{2\delta-1}{2}}{2 + 2\delta - 1}\) (that is, when \(\lambda\) is ‘sufficiently smaller’ than its upper bound).</p>
+
+
+
+
+
+
+
+<p>Theorem 3 (38) establishes the conditions for the existence of equilibria in anti-coordination games: (1) homogeneous equilibria never exist (as in the non-idiosyncratic case), and (2) a heterogenous equilibrium exists if and only if (2.1) satisfied agents of degree \(d_{i}\) (above, in the sets \(S^{cc}\) and \(S^{tt}\)) have at least \(l_{\delta,\lambda}(d_{i})\) neighbours who perform a <cite>different</cite> action, and (2.2) frustrated agents of degree \(d_{i}\) (above, in the sets \(S^{ct}\) and \(S^{tc}\)) have at least \(d_{i} - l_{\delta,\lambda}(d_{i}) + 1\) neighbours who perform a <cite>different</cite> action.</p>
+
+<p>Since in anti-coordination games, players have anti-coordination incentives, the existence of a fully satisfying equilibrium—still crucially dependent on the preference distribution—depends on there being sufficient ‘clique-ish’ <cite>heterogeneity</cite> in the agents’ preferences. More precisely, a fully satisfying equilibrium exists if and only if each agent of degree \(d_{i}\) has at least \(l_{\delta,\lambda}(d_{i})\) neighbours with a <cite>different</cite> preference.</p>
+
+<p>In anti-coordination games, \(l_{\delta,\lambda}(d_{i})\) is governed by the same expressions above; however, now it stands for the minimum number of <cite>opponents</cite>—neighbours who perform an agent’s <cite>dis</cite>preferred action—an agent needs for her preferred action to be optimal. In particular, this means that
 
 ‘’
-
-<p>To get a feel for when heterogenous profiles may or may not be equilibria, let’s take an extreme case. Suppose that the matching benefit is maximally high, \(\delta=1\)—this implies that the idiosyncratic benefit may be of any strength strictly between zero and one. Consider the agents of degree \(1\) (agents \(D\) and \(E\)). When \(\delta=1\), the minimum number of companions necessary for the optimality of their preferred action is strictly larger than (at least) one (depending on how strong \(\lambda\) is)—since agents can’t come in non-integer numbers, we can round this minimum up to two. And since the single-degree agents have just one neighbour, there is no heterogenous (or homogeneous, for that matter) equilibrium where these agents choose their preferred action. So, when \(\delta=1\), in any heterogenous equilibrium, the single-degree agents must be frustrated, that is, they must have chosen their non-preferred action. (Intuitively, in such cases, the marginal benefit of matching, \(\delta=1\), is higher than the marginal idiosyncratic benefit, \(\lambda < 1\).)</p>
-
 
 In coordination games, popular agents—agents with more connections—optimally follow their preferences more easily than less popular agents do.
