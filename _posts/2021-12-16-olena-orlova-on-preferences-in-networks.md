@@ -94,15 +94,22 @@ And, finally, for agent \(C\) of degree \(4\), we have:
 
 <p style="padding-left:100px;">(2) \(l^{*}_{\delta,\lambda}(1) = \lambda + 5/4\) when \(0 < \lambda < 1\12\).</p>
 
+<p style="padding-left:100px;">Degree \(2\):</p>
+
+<p style="padding-left:100px;">(1) \(l^{*}_{\delta,\lambda}(2) = \lambda\) when \(1\5 \leq \lambda < 1\4\);</p>
+
+<p style="padding-left:100px;">(2) \(l^{*}_{\delta,\lambda}(2) = \lambda + 1\) when \(0 < \lambda < 1\5\).</p>
 
 
 
 
 
-<p>To get a feel for when heterogenous profiles may or may not be equilibria, let’s take an extreme case. Suppose that the matching benefit is maximally high, \(\delta=1\)—this implies that the idiosyncratic benefit may be of any strength strictly between zero and one. Consider the agents of degree \(1\) (agents \(D\) and \(E\)). When \(\delta=1\), the minimum number of companions necessary for the optimality of their preferred action is strictly larger than (at least) one (depending on how strong \(\lambda\) is)—since agents can’t come in non-integer numbers, we can round this minimum up to two. And since the single-degree agents have just one neighbour, there is no heterogenous (or homogeneous, for that matter) equilibrium where these agents choose their preferred action. So, when \(\delta=1\), in any heterogenous equilibrium, the single-degree agents must be frustrated, that is, they must have chosen their non-preferred action. (Intuitively, in such cases, the marginal benefit of matching, \(\delta=1\), is higher than the marginal idiosyncratic benefit, \(\lambda < 1\).)</p>
 
 
 
 ‘’
+
+<p>To get a feel for when heterogenous profiles may or may not be equilibria, let’s take an extreme case. Suppose that the matching benefit is maximally high, \(\delta=1\)—this implies that the idiosyncratic benefit may be of any strength strictly between zero and one. Consider the agents of degree \(1\) (agents \(D\) and \(E\)). When \(\delta=1\), the minimum number of companions necessary for the optimality of their preferred action is strictly larger than (at least) one (depending on how strong \(\lambda\) is)—since agents can’t come in non-integer numbers, we can round this minimum up to two. And since the single-degree agents have just one neighbour, there is no heterogenous (or homogeneous, for that matter) equilibrium where these agents choose their preferred action. So, when \(\delta=1\), in any heterogenous equilibrium, the single-degree agents must be frustrated, that is, they must have chosen their non-preferred action. (Intuitively, in such cases, the marginal benefit of matching, \(\delta=1\), is higher than the marginal idiosyncratic benefit, \(\lambda < 1\).)</p>
+
 
 In coordination games, popular agents—agents with more connections—optimally follow their preferences more easily than less popular agents do.
