@@ -90,15 +90,15 @@ And, finally, for agent \(C\) of degree \(4\), we have:
 
 <p style="padding-left:100px;">Degree \(1\):</p>
 
-<p style="padding-left:100px;">(1) \(l^{*}_{5/8,\lambda}(1) = \lambda + 1/4\) when \(1/12 \leq \lambda < 1/4\); for example, \(l^{*}_{5/8,2/12}(1) = 5/12 \sim^{\uparrow} 1\);</p>
+<p style="padding-left:100px;">(1) \(l^{*}_{5/8,\lambda}(1) = \lambda + 1/4\) when \(1/12 \leq \lambda < 1/4\); for example, \(l^{*}_{5/8,1/6}(1) = 5/12 \approx^{\uparrow} 1\);</p>
 
-<p style="padding-left:100px;">(2) \(l^{*}_{5/8,\lambda}(1) = \lambda + 5/4\) when \(0 < \lambda < 1/12\); for example, \(l^{*}_{5/8,1/24}(1) = 31/24 \sim^{\uparrow} 2\).</p>
+<p style="padding-left:100px;">(2) \(l^{*}_{5/8,\lambda}(1) = \lambda + 5/4\) when \(0 < \lambda < 1/12\); for example, \(l^{*}_{5/8,1/24}(1) = 31/24 \approx^{\uparrow} 2\).</p>
 
 <p style="padding-left:100px;">Degree \(2\):</p>
 
-<p style="padding-left:100px;">(1) \(l^{*}_{5/8,\lambda}(2) = \lambda\) when \(1/5 \leq \lambda < 1/4\);</p>
+<p style="padding-left:100px;">(1) \(l^{*}_{5/8,\lambda}(2) = \lambda\) when \(1/5 \leq \lambda < 1/4\); for example, \(l^{*}_{5/8,9/40}(2) = 9/40 \approx^{\uparrow} 1\);</p>
 
-<p style="padding-left:100px;">(2) \(l^{*}_{5/8,\lambda}(2) = \lambda + 1\) when \(0 < \lambda < 1/5\).</p>
+<p style="padding-left:100px;">(2) \(l^{*}_{5/8,\lambda}(2) = \lambda + 1\) when \(0 < \lambda < 1/5\); for example, \(l^{*}_{5/8,1/10}(2) = 11/10 \approx^{\uparrow} 2\).</p>
 
 <p style="padding-left:100px;">Degree \(4\):</p>
 
