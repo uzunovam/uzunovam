@@ -106,6 +106,9 @@ And, finally, for agent \(C\) of degree \(4\), we have:
 
 <p style="padding-left:100px;">(2) \(l^{*}_{5/8,\lambda}(4) = \lambda + 7/8\) when \(0 < \lambda < 17/72\); for example, \(l^{*}_{5/8,17/144}(4) = 143/144 \approx^{\uparrow} 1\).</p>
 
+<p>(Where \(\approx^{\uparrow}\) denotes rounding up to the nearest integer.)</p>
+
+<p>Echoing Orlova’s observation above, we see that the underlying preference distribution plays a key role in determining whether the fully satisfying profile is an equilibrium. In particular, under the preference distribution assumed so far, the fully satisfying profile in the left panel of <smallcaps>figure 3</smallcaps> is <cite>not</cite> an equilibrium, as agent \(E\) (of degree one) needs agent \(C\) to be her companion for \(E\) to optimally follow her preferred action (drink coffee).</p>
 
 
 
