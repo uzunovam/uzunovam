@@ -116,7 +116,7 @@ And, finally, for agent \(C\) of degree \(4\), we have:
 
 <p style="padding-left:100px;"><smallcaps>figure 4</smallcaps></p>
 
-<p>The left panel of <smallcaps>figure 4</smallcaps> is the same as the right panel of <smallcaps>figure 3</smallcaps>; the right panel of <smallcaps>figure 4</smallcaps> depicts the fully satisfying profile under a different preference distribution, with a preference ‘clique’ between agents \(C\), \(D\)< and \(E\).</p>
+<p>The left panel of <smallcaps>figure 4</smallcaps> is the same as the right panel of <smallcaps>figure 3</smallcaps>; the right panel of <smallcaps>figure 4</smallcaps> depicts the fully satisfying profile under a different preference distribution, with a preference ‘clique’ between agents \(C\), \(D\) and \(E\). In <smallcaps>figure 4</smallcaps>, as we have seen, \(\mathbf{x}\) is not an equilibrium; however, the preference ‘clique’ between \(C\), \(D\) and \(E\) ensures that \(\mathbf{y}\) is.</p>
 
 
 
