@@ -110,7 +110,7 @@ And, finally, for agent \(C\) of degree \(4\), we have:
 
 <p>Echoing Orlova’s observation above, we see that the underlying preference distribution plays a key role in determining whether the fully satisfying profile is an equilibrium. In particular, under the preference distribution assumed so far, the fully satisfying profile in the left panel of <smallcaps>figure 3</smallcaps> is <cite>not</cite> an equilibrium, as agent \(E\) (of degree one) needs agent \(C\) to be her companion for \(E\) to optimally follow her preferred action (drink coffee). Put differently, to have a fully satisfying equilibrium on this five-agent network, a necessary condition is for agent \(C\) to be \(D\) and \(E\)’s companion and hence for \(C\) to have the same preference as \(D\) and \(E\).</p>
 
-<p>So there has to be some preference homogeneity or cohesion among neighbours for a fully satisfying profile to be an equilibrium. This might be a (rare) full preference homogeneity, which we’ve assumed away here, or a ‘clique-ish’ homogeneity as in the following example:</p>
+<p>So, as Theorem 2 shows (38), there has to be some preference homogeneity or cohesion among neighbours for a fully satisfying profile to be an equilibrium. This might be a (rare) full preference homogeneity, which we’ve assumed away here, or a ‘clique-ish’ homogeneity as in the following example:</p>
 
 <p style="padding-left:100px;"><img src="https://uzunovam.github.io/images/graph4.png" /></p>
 
