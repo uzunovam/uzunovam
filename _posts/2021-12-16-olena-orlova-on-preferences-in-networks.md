@@ -141,9 +141,9 @@ And, finally, for agent \(C\) of degree \(4\), we have:
 
 <p style="padding-left:100px;">Degree \(2\):</p>
 
-<p style="padding-left:100px;">(1) \(l_{\delta,\lambda}(2) = \lambda\) when \((2\delta -1)\frac{1}{2\delta} \leq \lambda < 2\delta-1\) (that is, when \(\lambda\) is ‘sufficiently close’ to its upper bound);</p>
+<p style="padding-left:100px;">(1) \(l_{\delta,\lambda}(2) = \lambda\) when \((1 - 2\delta)\frac{1}{2 - 2\delta} \leq \lambda < 1 - 2\delta\);</p>
 
-<p style="padding-left:100px;">(2) \(l_{\delta,\lambda}(2) = \lambda + 1\) when \(0 < \lambda < (2\delta -1)\frac{1}{2\delta}\) (that is, when \(\lambda\) is ‘sufficiently smaller’ than its upper bound).</p>
+<p style="padding-left:100px;">(2) \(l_{\delta,\lambda}(2) = \lambda + 1\) when \(0 < \lambda < (1 - 2\delta)\frac{1}{2 - 2\delta}\).</p>
 
 <p style="padding-left:100px;">Degree \(3\):</p>
 
