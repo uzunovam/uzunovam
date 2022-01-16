@@ -112,12 +112,13 @@ And, finally, for agent \(C\) of degree \(4\), we have:
 
 <p>So there has to be some preference homogeneity or cohesion among neighbours for a fully satisfying profile to be an equilibrium. This might be a (rare) full preference homogeneity, which we’ve assumed away here, or a ‘clique-ish’ homogeneity as in the following example:</p>
 
+<p style="padding-left:100px;"><img src="https://uzunovam.github.io/images/graph4.png" /></p>
 
 <p style="padding-left:100px;"><smallcaps>figure 4</smallcaps></p>
 
 <p>The left panel of <smallcaps>figure 4</smallcaps> is the same as the right panel of <smallcaps>figure 3</smallcaps>; the right panel of <smallcaps>figure 4</smallcaps> depicts the fully satisfying profile under a different preference distribution, with a preference ‘clique’ between agents \(C\), \(D\) and \(E\). In <smallcaps>figure 4</smallcaps>, as we have seen, \(\mathbf{x}\) is not an equilibrium; however, the preference ‘clique’ between \(C\), \(D\) and \(E\) ensures that \(\mathbf{y}\) is.</p>
 
-<p>(Orlova’s analysis assumes a fixed underlying network; an interesting follow-up work )</p>
+<p>(Orlova’s analysis assumes a fixed underlying network; an interesting follow-up work that need not depart from the fixed-network case could provide a model of preference change, given a fixed network. Such work could be very fruitful for understanding conformation or ‘sour-grapes’-type of preference formation à la John Elster. For example, assume that agents care about (at least feeling like they are) staying true to their preference. Then, a frustrating equilibrium imposes a (psychological) penalty that a satisfying one doesn’t. If agents adjust their preferences in a way that makes the optimality of following one’s preferred action more likely, then a dynamic model of preference change could explain how, and under what conditions, agents may move from an unstable to a stable fully satisfying equilibrium (say, from the left panel to the right panel of <smallcaps>figure 4</smallcaps>). Orlova’s analysis suggests that if such convergence is possible, the resulting preference distribution will exhibit a non-negligible degree of preference homogeneity, at least among neighbours—this, in turn, could explain the emergence of preference conformity through the interplay between interactional-idiosyncratic utility and a concern for ‘staying true’ to one’s preference.)</p>
 
 
 
