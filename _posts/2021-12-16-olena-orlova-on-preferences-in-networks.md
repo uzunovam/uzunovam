@@ -147,9 +147,9 @@ And, finally, for agent \(C\) of degree \(4\), we have:
 
 <p style="padding-left:100px;">Degree \(3\):</p>
 
-<p style="padding-left:100px;">(1) \(l_{\delta,\lambda}(4) = \lambda - \frac{2\delta - 1}{2}\) when \((2\delta -1)\frac{2 + \frac{2\delta-1}{2}}{2 + 2\delta - 1} \leq \lambda < 2\delta-1\) (that is, when \(\lambda\) is ‘sufficiently close’ to its upper bound);</p>
+<p style="padding-left:100px;">(1) \(l_{\delta,\lambda}(4) = \lambda - \frac{1 - 2\delta}{2}\) when \((1 - 2\delta)\frac{1 + \frac{1 - 2\delta}{4}}{1 + \frac{1 - 2\delta}{2}} \leq \lambda < 1 - 2\delta\);</p>
 
-<p style="padding-left:100px;">(1) \(l_{\delta,\lambda}(4) = \lambda - \frac{2\delta - 1}{2} + 1\) when \(0 < \lambda < (2\delta -1)\frac{2 + \frac{2\delta-1}{2}}{2 + 2\delta - 1}\) (that is, when \(\lambda\) is ‘sufficiently smaller’ than its upper bound).</p>
+<p style="padding-left:100px;">(1) \(l_{\delta,\lambda}(4) = \lambda - \frac{1 - 2\delta}{2} + 1\) when \(0 < \lambda < (1 - 2\delta)\frac{1 + \frac{1 - 2\delta}{4}}{1 + \frac{1 - 2\delta}{2}}\).</p>
 
 
 
