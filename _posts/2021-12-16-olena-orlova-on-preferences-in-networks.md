@@ -151,6 +151,7 @@ And, finally, for agent \(C\) of degree \(4\), we have:
 
 <p style="padding-left:100px;">(1) \(l_{\delta,\lambda}(4) = \lambda - \frac{1 - 2\delta}{2} + 1\) when \(0 < \lambda < (1 - 2\delta)\frac{1 + \frac{1 - 2\delta}{4}}{1 + \frac{1 - 2\delta}{2}}\).</p>
 
+<p>And, again, notice that, <cite>ceteris paribus</cite>, the more ‘popular’ an agent is—in the sense of having more friends—the fewer opponents she needs for her preferred action to be optimal, that is, for more connected agents, it is easier to optimally follow their preferences.</p>
 
 
 
