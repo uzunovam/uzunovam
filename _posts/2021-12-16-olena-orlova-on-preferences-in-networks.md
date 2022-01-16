@@ -64,21 +64,21 @@ date: 2021-12-16
 
 <p>Consider, first, the agents of degree \(1\) (agents \(D\) and \(E\)). For arbitrary \(\delta\) and \(\lambda\) that satisfy the coordination-game conditions, the minimum number of companions such agents need for their preferred action to be optimal is given by:</p>
 
-<p style="padding-left:100px;">(1) \(l^{*}_{\delta,\lambda}(1) = \lambda + 2 \delta - 1\) when \((2\delta -1)\frac{1-2(2\delta-1)}{1+2(2\delta-1)} \leq \lambda < 2\delta-1\) (that is, when \(\lambda\) is sufficiently close to its upper bound);</p>
+<p style="padding-left:100px;">(1) \(l^{*}_{\delta,\lambda}(1) = \lambda + 2 \delta - 1\) when \((2\delta -1)\frac{1-2(2\delta-1)}{1+2(2\delta-1)} \leq \lambda < 2\delta-1\) (that is, when \(\lambda\) is ‘sufficiently close’ to its upper bound);</p>
 
-<p style="padding-left:100px;">(2) \(l^{*}_{\delta,\lambda}(1) = \lambda + 2 \delta\) when \(0 < \lambda < (2\delta -1)\frac{1-2(2\delta-1)}{1+2(2\delta-1)}\) (that is, when \(\lambda\) is sufficiently smaller than its upper bound).</p>
+<p style="padding-left:100px;">(2) \(l^{*}_{\delta,\lambda}(1) = \lambda + 2 \delta\) when \(0 < \lambda < (2\delta -1)\frac{1-2(2\delta-1)}{1+2(2\delta-1)}\) (that is, when \(\lambda\) is ‘sufficiently smaller’ than its upper bound).</p>
 
 <p>For agents of degree \(2\) (agents \(A\) and \(B\)), we have:</p>
 
-<p style="padding-left:100px;">(1) \(l^{*}_{\delta,\lambda}(2) = \lambda\) when \((2\delta -1)\frac{1}{2\delta} \leq \lambda < 2\delta-1\) (that is, when \(\lambda\) is sufficiently close to its upper bound);</p>
+<p style="padding-left:100px;">(1) \(l^{*}_{\delta,\lambda}(2) = \lambda\) when \((2\delta -1)\frac{1}{2\delta} \leq \lambda < 2\delta-1\) (that is, when \(\lambda\) is ‘sufficiently close’ to its upper bound);</p>
 
-<p style="padding-left:100px;">(2) \(l^{*}_{\delta,\lambda}(2) = \lambda + 1\) when \(0 < \lambda < (2\delta -1)\frac{1}{2\delta}\) (that is, when \(\lambda\) is sufficiently smaller than its upper bound).</p>
+<p style="padding-left:100px;">(2) \(l^{*}_{\delta,\lambda}(2) = \lambda + 1\) when \(0 < \lambda < (2\delta -1)\frac{1}{2\delta}\) (that is, when \(\lambda\) is ‘sufficiently smaller’ than its upper bound).</p>
 
 And, finally, for agent \(C\) of degree \(4\), we have:
 
-<p style="padding-left:100px;">(1) \(l^{*}_{\delta,\lambda}(4) = \lambda - \frac{2\delta - 1}{2}\) when \((2\delta -1)\frac{2 + \frac{2\delta-1}{2}}{2 + 2\delta - 1} \leq \lambda < 2\delta-1\) (that is, when \(\lambda\) is sufficiently close to its upper bound);</p>
+<p style="padding-left:100px;">(1) \(l^{*}_{\delta,\lambda}(4) = \lambda - \frac{2\delta - 1}{2}\) when \((2\delta -1)\frac{2 + \frac{2\delta-1}{2}}{2 + 2\delta - 1} \leq \lambda < 2\delta-1\) (that is, when \(\lambda\) is ‘sufficiently close’ to its upper bound);</p>
 
-<p style="padding-left:100px;">(1) \(l^{*}_{\delta,\lambda}(4) = \lambda - \frac{2\delta - 1}{2} + 1\) when \(0 < \lambda < (2\delta -1)\frac{2 + \frac{2\delta-1}{2}}{2 + 2\delta - 1}\) (that is, when \(\lambda\) is sufficiently smaller than its upper bound).</p>
+<p style="padding-left:100px;">(1) \(l^{*}_{\delta,\lambda}(4) = \lambda - \frac{2\delta - 1}{2} + 1\) when \(0 < \lambda < (2\delta -1)\frac{2 + \frac{2\delta-1}{2}}{2 + 2\delta - 1}\) (that is, when \(\lambda\) is ‘sufficiently smaller’ than its upper bound).</p>
 
 <p>Cases (1) above give the minimum number of companions necessary for the optimality of one’s preferred action when the idiosyncratic benefit \(\lambda\) is sufficiently strong; conversely, cases (2) provide the same condition when the benefit is sufficiently weak. It is easy to see that the only difference between the two cases is that, when the idiosyncratic benefit is (relatively) sufficiently weak—when an agent does not care that much about her preferred action—an extra companion is necessary for the optimality of the preferred action. Intuitively, and slightly overstated, in these cases the optimality of the preferred action runs through the interactional effect. It is also easy to see that, <cite>ceteris paribus</cite>, the higher one’s degree is—above, the more friends an agent has—the <cite>lower</cite> the necessary (minimum) number of companions is. (Recall that the upper bound \(2\delta-1\) is strictly positive.) In our running example, the more ‘popular’ an agent is—in the sense of having more friends—the <cite>easier</cite> it is for her to optimally follow her preferred action. This is a very interesting result that we will come back to below and that connects an agent’s (degree) centrality with her preferences—in fact, it is a small leap from here to further ask about the relation between an agent’s preferences and other types of centrality.</p>
 
