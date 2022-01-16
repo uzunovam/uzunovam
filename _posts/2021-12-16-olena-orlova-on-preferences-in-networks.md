@@ -86,25 +86,25 @@ And, finally, for agent \(C\) of degree \(4\), we have:
 
 <p>Orlova states the (very intuitive) condition for the existence of a fully satisfying equilibrium in coordination games in Theorem 2 (38). It says that each agent with degree \(d_{i}\) should have at least \(l^{*}_{\delta,\lambda}(d_{i})\) number of neighbours whose action preferences coincide with her own action preference (note the difference with a companion—a neighbour who performs, perhaps contrary to his preference, the respective agent’s preferred action). Thus, if an agent is of degree \(d_{i}\) and prefers drinking coffee (to tea), then she must have at least \(l^{*}_{\delta,\lambda}(d_{i})\) neighbours who also prefer drinking coffee (to tea). Put differently, ‘the distribution of idiosyncratic action preferences on a network is crucial for existence of a fully satisfying equilibrium’ (38), though the same is not true for frustrating (heterogenous) equilibria.</p>
 
-<p>Consider the five-agent network with the preference profile we have seen so far (in <smallcaps>figure 2</smallcaps> and <smallcaps>figure 3</smallcaps>), and suppose that \(\delta=5/8\). The minimum-companions conditions above then become:</p>
+<p>Consider the five-agent network with the preference profile we have seen so far (in <smallcaps>figure 2</smallcaps> and <smallcaps>figure 3</smallcaps>), and suppose that \(\delta=5/8\). The minimum-companion conditions above then become:</p>
 
 <p style="padding-left:100px;">Degree \(1\):</p>
 
-<p style="padding-left:100px;">(1) \(l^{*}_{\delta,\lambda}(1) = \lambda + 1/4\) when \(1/12 \leq \lambda < 1/4\);</p>
+<p style="padding-left:100px;">(1) \(l^{*}_{5/8,\lambda}(1) = \lambda + 1/4\) when \(1/12 \leq \lambda < 1/4\); for example, \(l^{*}_{5/8,2/12}(1) = 5/12 \sim^{\uparrow} 1\);</p>
 
-<p style="padding-left:100px;">(2) \(l^{*}_{\delta,\lambda}(1) = \lambda + 5/4\) when \(0 < \lambda < 1/12\).</p>
+<p style="padding-left:100px;">(2) \(l^{*}_{5/8,\lambda}(1) = \lambda + 5/4\) when \(0 < \lambda < 1/12\); for example, \(l^{*}_{5/8,1/24}(1) = 31/24 \sim^{\uparrow} 2\).</p>
 
 <p style="padding-left:100px;">Degree \(2\):</p>
 
-<p style="padding-left:100px;">(1) \(l^{*}_{\delta,\lambda}(2) = \lambda\) when \(1/5 \leq \lambda < 1/4\);</p>
+<p style="padding-left:100px;">(1) \(l^{*}_{5/8,\lambda}(2) = \lambda\) when \(1/5 \leq \lambda < 1/4\);</p>
 
-<p style="padding-left:100px;">(2) \(l^{*}_{\delta,\lambda}(2) = \lambda + 1\) when \(0 < \lambda < 1/5\).</p>
+<p style="padding-left:100px;">(2) \(l^{*}_{5/8,\lambda}(2) = \lambda + 1\) when \(0 < \lambda < 1/5\).</p>
 
 <p style="padding-left:100px;">Degree \(4\):</p>
 
-<p style="padding-left:100px;">(1) \(l^{*}_{\delta,\lambda}(2) = \lambda - 1/8\) when \(17/72 \leq \lambda < 1/4\);</p>
+<p style="padding-left:100px;">(1) \(l^{*}_{5/8,\lambda}(4) = \lambda - 1/8\) when \(17/72 \leq \lambda < 1/4\);</p>
 
-<p style="padding-left:100px;">(2) \(l^{*}_{\delta,\lambda}(2) = \lambda + 7/8\) when \(0 < \lambda < 17/72\).</p>
+<p style="padding-left:100px;">(2) \(l^{*}_{5/8,\lambda}(4) = \lambda + 7/8\) when \(0 < \lambda < 17/72\).</p>
 
 
 
