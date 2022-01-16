@@ -102,9 +102,9 @@ And, finally, for agent \(C\) of degree \(4\), we have:
 
 <p style="padding-left:100px;">Degree \(4\):</p>
 
-<p style="padding-left:100px;">(1) \(l^{*}_{5/8,\lambda}(4) = \lambda - 1/8\) when \(17/72 \leq \lambda < 1/4\);</p>
+<p style="padding-left:100px;">(1) \(l^{*}_{5/8,\lambda}(4) = \lambda - 1/8\) when \(17/72 \leq \lambda < 1/4\); for example, \(l^{*}_{5/8,35/144}(4) = 17/144 \approx^{\uparrow} 1\);</p>
 
-<p style="padding-left:100px;">(2) \(l^{*}_{5/8,\lambda}(4) = \lambda + 7/8\) when \(0 < \lambda < 17/72\).</p>
+<p style="padding-left:100px;">(2) \(l^{*}_{5/8,\lambda}(4) = \lambda + 7/8\) when \(0 < \lambda < 17/72\); for example, \(l^{*}_{5/8,17/144}(4) = 143/144 \approx^{\uparrow} 1\).</p>
 
 
 
