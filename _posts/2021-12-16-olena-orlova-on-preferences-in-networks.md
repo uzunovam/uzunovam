@@ -112,12 +112,12 @@ And, finally, for agent \(C\) of degree \(4\), we have:
 
 <p>So there has to be some preference homogeneity or cohesion among neighbours for a fully satisfying profile to be an equilibrium. This might be a (rare) full preference homogeneity, which we’ve assumed away here, or a ‘clique-ish’ homogeneity as in the following example:</p>
 
-<p style="padding-left:100px;"><img src="https://uzunovam.github.io/images/graph4.png" /></p>
 
 <p style="padding-left:100px;"><smallcaps>figure 4</smallcaps></p>
 
 <p>The left panel of <smallcaps>figure 4</smallcaps> is the same as the right panel of <smallcaps>figure 3</smallcaps>; the right panel of <smallcaps>figure 4</smallcaps> depicts the fully satisfying profile under a different preference distribution, with a preference ‘clique’ between agents \(C\), \(D\) and \(E\). In <smallcaps>figure 4</smallcaps>, as we have seen, \(\mathbf{x}\) is not an equilibrium; however, the preference ‘clique’ between \(C\), \(D\) and \(E\) ensures that \(\mathbf{y}\) is.</p>
 
+<p>(Orlova’s analysis assumes a fixed underlying network; an interesting follow-up work )</p>
 
 
 
