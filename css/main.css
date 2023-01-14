@@ -52,6 +52,9 @@ p.lastreference {
     padding-top: 0;
     margin-top: 0;
 }
+strong {
+  font-weight: 500;
+}
 numerals {
     font-family: Georgia, serif;
     font-variant: oldstyle-nums;
