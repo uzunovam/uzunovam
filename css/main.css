@@ -30,6 +30,10 @@ p {
     color: #333;
     font-variant: oldstyle-nums;
 }
+p.hangingIndent {
+    text-indent: -28px;
+    padding-left: 28px;
+}
 numerals {
     font-family: Georgia, serif;
     font-variant: oldstyle-nums;
