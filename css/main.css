@@ -31,26 +31,26 @@ p {
     font-variant: oldstyle-nums;
 }
 p.singlereference {
-    text-indent: -28px;
-    padding-left: 28px;
+    text-indent: -35px;
+    padding-left: 35px;
 }
 p.firstreference {
-    text-indent: -28px;
-    padding-left: 28px;
-    padding-bottom: 0px;
-    margin-bottom: 0px;
+    text-indent: -35px;
+    padding-left: 35px;
+    padding-bottom: 0;
+    margin-bottom: 0;
 }
 p.middlereference {
-    text-indent: -28px;
-    padding-left: 28px;
+    text-indent: -35px;
+    padding-left: 35px;
     padding-bottom: 0px;
     padding-top: 0px;
 }
 p.lastreference {
-    text-indent: -28px;
-    padding-left: 28px;
-    padding-top: 0px;
-    margin-top: 0px;
+    text-indent: -35px;
+    padding-left: 35px;
+    padding-top: 0;
+    margin-top: 0;
 }
 numerals {
     font-family: Georgia, serif;
