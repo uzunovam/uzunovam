@@ -35,6 +35,8 @@ pindent {
     line-height: 1.4em;
     color: #333;
     font-variant: oldstyle-nums;
+    padding-left: 36px;
+    text-indent: -36px;
 }
 numerals {
     font-family: Georgia, serif;
