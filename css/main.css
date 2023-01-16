@@ -44,7 +44,9 @@ p.middlereference {
     text-indent: -35px;
     padding-left: 35px;
     padding-bottom: 0px;
+    margin-bottom: 0;
     padding-top: 0px;
+    margin-top: 0;
 }
 p.lastreference {
     text-indent: -35px;
